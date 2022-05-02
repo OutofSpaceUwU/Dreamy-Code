@@ -41,20 +41,22 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 Under this section we post the current status of what we are working on. 
 
-[ ] organize Roles
+- [ ] organize Roles
 
-[ ] create channels with different 
+- [ ] create channels with different 
 swearing word levels
 
-[ ] add Arcane bot for levelling
+- [ ] add Arcane bot for levelling
 
   * only users with a certain level are candites for mods or etc. (replace classic level system)
 
-[ ] create a stage cahnnel for events
+- [ ] create a stage cahnnel for events
 
-[ ] selfselecteble roles
+- [ ] selfselecteble roles
 
-[ ] potentially replace YAG role reactions with Dyno role reactions
+- [ ] potentially replace YAG role reactions with Dyno role reactions
+
+- [x] reorganize channels
 
 ---
 <!-- Structure -->
@@ -72,13 +74,13 @@ The server is structered in different voice and text channels. To keep things or
 | | 〔🏷〕rollen | A channel where users can select roles for themselves |
 | General - Text | 『💬』general | The regular chat without any specific topic |
 | | 『💬』clean-general | The regular chat + not a single swearing word |
-| | 『🌐』media | A channel exclusivly for images such as fan art, memes, and previews of book covers |
+| | 『🌐』media | A channel exclusivly for images such as fan art, memes, and any other image material |
 | | 『🔞』18-plus-content | This channel is related to nsfw messages and images | 
 | | 『⚠』fvck-humanity | Life sucks sometimes |
 | | 『👾』bot-commands | The only channel where bot commands are allowed |
 | Moni Heichou | 『⛈』brainstorming | Thoughts from Moni Heichou |
 | | 『🧡』fans-only | Updates regarding new books |
-| | 『✍️』ask-the-author | Questions from the community to Moni Heichou |
+| | 『✍️』ask-the-author | Questions and feedback from the community to Moni Heichou |
 | General - Voice | 🔇muted🔇 | A channel for those who want to participate in a voice chat but do not have or want to use a microphone |
 | | 『🎤』events | This channel is only for events with a host. Featureing silent joins and leaves + onyl certified speakers |
 | | 『👥』Lounge #1 | A voice chat for general use |
@@ -86,6 +88,13 @@ The server is structered in different voice and text channels. To keep things or
 | | 『🔒』Private VC | A voice chat for general use, but limited to a smaller number of users |
 | | 『🎧』Music [BOTS] | A voice chat to enjoy some nice music with your friends |
 | Staff Rooms | support | Text support for users |
+| | staff | Chat for regular staff members |
+| | higher-staff | Chat for Admins and Mods |
+| | logs | A chat for logs produced by bots |
+| | 『🔧』Support | A voice chat related to support tickets |
+| | 『🕒』Waiting | A channel where users wait for their voice support |
+| | 『🎓』Staff Meetings | A voice chat for staff members |
+| | 『🎓』Higher Staff | A voice chat for Admins and Mods |s
 
 
 
