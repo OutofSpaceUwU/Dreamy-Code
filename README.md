@@ -26,6 +26,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
   - [What are we currently working on?](#what-are-we-currently-working-on)
   - [The server structure](#the-server-structure)
   - [The different roles and how to achieve them](#the-different-roles-and-how-to-achieve-them)
+  - [| *Selectable Roles* |](#-selectable-roles-)
   - [Commands](#commands)
     - [Active Bots](#active-bots)
     - [Standart users](#standart-users)
@@ -69,6 +70,8 @@ The server is structered in different voice and text channels. To keep things or
 
 | Caterogy | Channel | Usecase |
 | ------- | ------- |--- |
+| *ServerStats* | 〔👥〕Users: (x) | The current member count |
+| | 〔🤖〕Bots: (x) | The current bot count |
 | *Important* | 〔📝〕regeln | The current rules |
 | | 〔🔔〕ankündigungen | Information about current changes and events |
 | | 〔🎉〕willkommen | Welcome messages for new users |
@@ -83,7 +86,7 @@ The server is structered in different voice and text channels. To keep things or
 | | 『🧡』fans-only | Updates regarding new books |
 | | 『✍️』ask-the-author | Questions and feedback from the community to Moni Heichou |
 | *General - Voice* | 🔇muted🔇 | A channel for those who want to participate in a voice chat but do not have or want to use a microphone |
-| | 『🎤』events | This channel is only for events with a host. Featureing silent joins and leaves + onyl certified speakers |
+| | 『🎤』Events | This channel is only for events with a host. Featureing silent joins and leaves + onyl certified speakers |
 | | 『👥』Lounge #1 | A voice chat for general use |
 | | 『👥』Lounge #2 | Same as  `『👥』Lounge #1` |
 | | 『🔒』Private VC | A voice chat for general use, but limited to a smaller number of users |
@@ -100,7 +103,7 @@ The server is structered in different voice and text channels. To keep things or
 ## The different roles and how to achieve them
 
 We offer a selection of different roles to every user. Some roles are self selectable like for example `XX`. These can be applied and removed through [role reactions¹](#1-role-reactions). On the other hand some roles have to be applied through a staff member. Besides that bots also create roles for theirselves. These are listed just general purpose.
-<br>As mentioned a few roles also reveal channels or categories. These is used mostly for moderation roles, but also for the `『⚠』fvck-humanity` channel. 
+<br>As mentioned a few roles also reveal channels or categories. This is used mostly for moderation roles, but also for the `『⚠』fvck-humanity` channel. 
 
 > The table below shows a detailed list of all roles. Have a look if you are intersted, but usually every role should be self explaining.
 > <br> *The table is sorted by hierarchy.
@@ -114,8 +117,22 @@ We offer a selection of different roles to every user. Some roles are self selec
 | *Staff* | 👑Owner | Through the Owner or the roles above | Overall managment + Decision-making authority |
 | | 🚨Head Administrator | (Same as group) | Substitute of the Owner |
 | | 🔥Administrator | (Same as group) | Managment + Supervision of the Head Moderators |
-| | 🌐Head Moderator | (Same as group) | Channel Managment + Supervision of the Moderators |
-
+| | 🌐Head Moderator | (Same as group) | Channel Managment + Supervision of the Moderators + Support |
+| | 🌀Moderator | (Same as group) | Channel Managment, Training of the trial mods + their supervision |
+| | ❓Trail Mod | (Sane as group) | Basic Managment + Support |
+| | ⚙️Server Staff | (Same as group) | General role for the whole server moderation team |
+| *Level* | 💵LEVEL 20 | Chatting, Community Events, etc. | Book previews + everything below |
+| | ⁉️Level 19 | (Same as group) | Participating in giveaways + everything below| 
+| | ✅Level 18 | (Same as group) | Early Acces to books + everything below| 
+| | Level 17 | (Same as group) | Your Vote counts twice with this role + everything below |
+| | Level 16 | (Same as group) | Participation in the beta program + everything below |
+| | Level 15 | (Same as group) | Own the the ability to speak in the event channel |
+| | Level 14 | (Same as group) | (Cosmetic Changes) |
+| | Level 13 | (Same as group) | (Same as Level 14) |
+| | Level 12 | (Same as group) |(Same as Level 13) |
+| | Level 11 | (Same as group) | (Same as Level 14) |
+| | Level 10 | (Same as group) | (Same as Level 14) | 
+| *Selectable Roles* | 
 ---
 <!--- Bot Commands -->
 ## Commands
