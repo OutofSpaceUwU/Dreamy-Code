@@ -20,6 +20,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 <!-- Content  -->
 ## Table of content
 <details>
+
 - [Moni Heichou Discord Server Github Page](#moni-heichou-discord-server-github-page)
   - [Table of content](#table-of-content)
   - [What are we currently working on?](#what-are-we-currently-working-on)
@@ -40,20 +41,20 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 Under this section we post the current status of what we are working on. 
 
-[] organize Roles
+[ ] organize Roles
 
-[] create channels with different 
+[ ] create channels with different 
 swearing word levels
 
-[] add Arcane bot for levelling
+[ ] add Arcane bot for levelling
 
   * only users with a certain level are candites for mods or etc. (replace classic level system)
 
-[] create a stage cahnnel for events
+[ ] create a stage cahnnel for events
 
-[] selfselecteble roles
+[ ] selfselecteble roles
 
-[] potentially replace YAG role reactions with Dyno role reactions
+[ ] potentially replace YAG role reactions with Dyno role reactions
 
 ---
 <!-- Structure -->
