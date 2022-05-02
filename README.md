@@ -63,7 +63,7 @@ swearing word levels
 ## The server structure
 
 The server is structered in different voice and text channels. To keep things organized for everybody only with certain roles certain channels will be displayed. For example is the `『🔞』18-plus-content` channel only for users with the `18+` role visible. 
->The following table shows the every available channel and their particular usecase. 
+>The following table shows every available channel and their particular usecase. 
 
 | Caterogy | Channel | Usecase |
 | ------- | ------- |--- |
