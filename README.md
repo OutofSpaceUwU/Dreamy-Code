@@ -3,7 +3,8 @@
 
 This repository is a summary of the changes commited to the [Moni Heichou Discord Server](https://discord.gg/U2MSjuZAT7 "Invite Link") and a guide for the users and the moderation team.
 
-<details><summary>Cheers</summary>
+<details>
+<summary>Cheers</summary>
 
 ```
       _                        
@@ -26,7 +27,14 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
   - [What are we currently working on?](#what-are-we-currently-working-on)
   - [The server structure](#the-server-structure)
   - [The different roles and how to achieve them](#the-different-roles-and-how-to-achieve-them)
-  - [| *Selectable Roles* |](#-selectable-roles-)
+    - [Moderation Roles](#moderation-roles)
+    - [Level Roles](#level-roles)
+    - [Selectable Roles](#selectable-roles)
+      - [Channel Visibility](#channel-visibility)
+      - [Notifcation Roles](#notifcation-roles)
+      - [Gender](#gender)
+      - [Social Status](#social-status)
+    - [Any Other Roles](#any-other-roles)
   - [Commands](#commands)
     - [Active Bots](#active-bots)
     - [Standart users](#standart-users)
@@ -45,27 +53,20 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 Under this section we post the current status of what we are working on. 
 
 - [ ] organize Roles
-
-- [ ] create channels with different 
-swearing word levels
-
+- [ ] create channels with different swearing word levels
 - [ ] add Arcane bot for levelling
-
-  * only users with a certain level are candites for mods or etc. (replace classic level system)
-
+  - only users with a certain level are candites for mods or etc. (replace classic level system)
 - [x] create a stage cahnnel for events
-
 - [ ] selfselecteble roles
-
 - [ ] potentially replace YAG role reactions with Dyno role reactions
-
 - [x] reorganize channels
+- [ ] create new rules
 
 ---
 <!-- Structure -->
 ## The server structure
 
-The server is structered in different voice and text channels. To keep things organized for everybody only with certain roles certain channels will be displayed. For example is the `『🔞』18-plus-content` channel only for users with the `18+` role visible. 
+The server is structered in different voice and text channels. To keep things organized for everybody only with certain roles certain channels will be displayed. For example is the `『🔞』18-plus-content` channel only for users with the `18+ Content` role visible. 
 >The following table shows every available channel and their particular usecase. 
 
 | Caterogy | Channel | Usecase |
@@ -102,42 +103,100 @@ The server is structered in different voice and text channels. To keep things or
 <!-- Roles -->
 ## The different roles and how to achieve them
 
-We offer a selection of different roles to every user. Some roles are self selectable like for example `XX`. These can be applied and removed through [role reactions¹](#1-role-reactions). On the other hand some roles have to be applied through a staff member. Besides that bots also create roles for theirselves. These are listed just general purpose.
-<br>As mentioned a few roles also reveal channels or categories. This is used mostly for moderation roles, but also for the `『⚠』fvck-humanity` channel. 
+We offer a selection of different roles to every user. Some roles are self selectable like for example `XX`. These can be applied and removed through role reactions[[¹]](#1-role-reactions). On the other hand some roles have to be applied through a staff member. Besides that bots also create roles for theirselves. These exists, but are not listed below. 
+<br>As mentioned before a few roles also reveal channels or categories. This is used mostly for moderation roles, but also for the `『⚠』fvck-humanity` channel. 
 
-> The table below shows a detailed list of all roles. Have a look if you are intersted, but usually every role should be self explaining.
-> <br> *The table is sorted by hierarchy.
+> <br> *The categories and roles are sorted by hierarchy.
 
-| Category | Role | Achieving | Abilities |
-| --- | --- | --- | --- |
-| *Bot* | Dyno | / | Bot specific |
-| | Xenon | / | (Same as group) |
-| | Arcane | / | (Same as group) |
-| | ServerStats | / | (Same as group) |
-| *Staff* | 👑Owner | Through the Owner or the roles above | Overall managment + Decision-making authority |
-| | 🚨Head Administrator | (Same as group) | Substitute of the Owner |
-| | 🔥Administrator | (Same as group) | Managment + Supervision of the Head Moderators |
-| | 🌐Head Moderator | (Same as group) | Channel Managment + Supervision of the Moderators + Support |
-| | 🌀Moderator | (Same as group) | Channel Managment, Training of the trial mods + their supervision |
-| | ❓Trail Mod | (Sane as group) | Basic Managment + Support |
-| | ⚙️Server Staff | (Same as group) | General role for the whole server moderation team |
-| *Level* | 💵LEVEL 20 | Chatting, Community Events, etc. | Book previews + everything below |
-| | ⁉️Level 19 | (Same as group) | Participating in giveaways + everything below| 
-| | ✅Level 18 | (Same as group) | Early Acces to books + everything below| 
-| | Level 17 | (Same as group) | Your Vote counts twice with this role + everything below |
-| | Level 16 | (Same as group) | Participation in the beta program + everything below |
-| | Level 15 | (Same as group) | Own the the ability to speak in the event channel |
-| | Level 14 | (Same as group) | (Cosmetic Changes) |
-| | Level 13 | (Same as group) | (Same as Level 14) |
-| | Level 12 | (Same as group) |(Same as Level 13) |
-| | Level 11 | (Same as group) | (Same as Level 14) |
-| | Level 10 | (Same as group) | (Same as Level 14) | 
-| *Selectable Roles* | 
+### Moderation Roles
+
+| Role | Abilities | 
+| --- | --- |
+| 👑Owner | Overall managment + Decision-making authority |
+| 🚨Head Administrator | Substitute of the Owner |
+| 🌐Head Moderator | Channel Managment + Supervision of the Moderators + Support |
+| 🌀Moderator | Channel Managment, Training of the trial mods + their supervision |
+| ❓Trail Mod | Basic Managment + Support |
+| ⚙️Server Staff | General role for the whole server moderation team |
+
+### Level Roles
+
+These roles are applied automatatically by the Arcane Bot and provide special perks. In order to earn a role who have to particpate activly. A full leaderboard of every participant can be found here: [Link to Leaderboard]()
+
+> However messages in the channels liseted below do not give the user any xp. 
+
+- `support` 
+- `logs` 
+- `『👾』bot-commands`
+
+| Role | Abilities | Required XP |
+| --- | --- | --- |
+| Level 100 | Early acces to books + everything below | 502,500 | 
+| Level 75 | Partipicating in giveaways + everything below | 283,125 |
+| Level 50 | Own the ability to speak in the event channel + everything below| 126,250 |
+| Level 25 | Votes on cummunity questions count twice | 31,875 |
+| Level 10 | Vote for new server features | 5,250 |
+
+### Selectable Roles
+
+These roles can be selected by the user himself through role reactions in the `〔🏷〕rollen`-channel. 
+
+#### Channel Visibility 
+
+|Role | Catogory/Channel Reaveal |
+| --- | --- |
+| 18+ Content | -『🔞』18-plus-content <br> -『⚠』fvck-humanity |
+| 18- Content | -『💬』clean-general |
+| True Fan | - Moni Heichou *(Category)* |
+
+
+#### Notifcation Roles
+
+> The roles below show which options do you have to opt in and opt out certain notifications. 
+
+| Role | Type of Information |
+| --- | --- |
+| Ping | - News <br> - Upcoming events |
+| True Fan+ | - Updates regarding new books (`True Fan`-role also has to be selected) |
+| Giveaway | - Upcoming giveaways (only level 75+)
+| (everyone)[[*]](#any-other-roles)| - Emergencies <br> - Major server updates |
+
+#### Gender
+
+> Under this section we offer the users to select their gender identity. 
+
+<details>
+<summary>Non-Binary Gender identities</summary>
+
+> We are aware of the fact that many other genders exist. However, we decided to keep the amount of roles in this section as low as possible and only offer `XXX` for non-binary gender identities. Please consider to write down your pronouns in your Discord™ biography if you wish so. 
+</details>
+
+| Role | Meaning |
+| --- | --- |
+| XX | Female |
+| XY | Male |
+| XXX | Non-Binary |
+
+#### Social Status
+
+- Simp
+- Married
+- Lost
+- 
+
+### Any Other Roles
+
+| Role | Achieving | Ability |
+| --- | --- | --- |
+| Verified | Accept the rules | Reveal any channel besides the [selectable channels](#channel-visibility) above or the staff-only channels |
+| everyone | Automatically given to every user | None |
+
 ---
 <!--- Bot Commands -->
 ## Commands
 
-<!---            <details><summary>Bots</summary>            --->
+<!--- <details>
+<summary>Bots</summary>            --->
 
 ### Active Bots
 
@@ -149,6 +208,7 @@ We offer a selection of different roles to every user. Some roles are self selec
 | [Xenon]() | Backups |
 | [Arcane]() | Leveling |
 | [ServerStats]()| General server statistics |
+| [TicketTool]() | Support ticket creation |
 
 </details>
 
@@ -179,3 +239,4 @@ Role reactions are reactions under messages which allow users to self select a r
 <!--- Copyright -->
 ## Copyright Notices
 
+© 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
