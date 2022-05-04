@@ -93,8 +93,8 @@ The server is structered in different voice and text channels. To keep things or
 | | 『🔒』Private VC | A voice chat for general use, but limited to a smaller number of users |
 | | 『🎧』Music [BOTS] | A voice chat to enjoy some nice music with your friends |
 | *Staff Rooms* | support | Creation of support tickets |
-| | staff | A chat for the staff |
-| | logs | A chat for logs produced by bots |
+| | 『👷』staff | A chat for the staff |
+| | 『🗃️』logs | A chat for logs produced by bots |
 | | 『🔧』Support | A voice chat related to support tickets |
 | | 『🕒』Waiting | A channel where users wait for their voice support |
 | | 『🎓』Staff Meetings | A voice chat for staff members |
@@ -115,7 +115,7 @@ Only with these roles are truly a member of the staff team. They have the author
 | Role | Abilities | 
 | --- | --- |
 | [👑]Owner | Overall managment + Decision-making authority |
-| [🚨]sHead Administrator | Substitute of the Owner |
+| [🚨]Head Administrator | Substitute of the Owner |
 | [🌐]Head Moderator | Channel Managment + Supervision of the Moderators + Support |
 | [🌀]Moderator | Channel Managment, Training of the trial mods + their supervision |
 | [❓]Trail Mod | Basic Managment + Support |
@@ -133,11 +133,11 @@ These roles are applied automatatically by the Arcane Bot and provide special pe
 
 | Role | Abilities | Required XP |
 | --- | --- | --- |
-| Level 100 | Early acces to books + everything below | 502,500 | 
-| Level 75 | Partipicating in giveaways + everything below | 283,125 |
-| Level 50 | Own the ability to speak in the event channel + everything below| 126,250 |
-| Level 25 | Votes on cummunity questions count twice | 31,875 |
-| Level 10 | Vote for new server features | 5,250 |
+| [💯]Level 100 | Early acces to books + everything below | 502,500 | 
+| [📈]Level 75 | Partipicating in giveaways + everything below | 283,125 |
+| [✨]Level 50 | Own the ability to speak in the event channel + everything below| 126,250 |
+| [💓]Level 25 | Votes on cummunity questions count twice | 31,875 |
+| [🔥]Level 10 | Vote for new server features | 5,250 |
 
 ### Selectable Roles
 
@@ -161,9 +161,9 @@ The roles below show which options do you have to opt in and opt out certain not
 
 | Role | Type of Information |
 | --- | --- |
-| Ping | - News <br> - Upcoming events |
-| True Fan+ | - Updates regarding new books (`True Fan`-role also has to be selected) |
-| Giveaway | - Upcoming giveaways (partipicating only for level 75+)
+| [📢]Ping | - News <br> - Upcoming events |
+| [🎊]True Fan+ | - Updates regarding new books (`True Fan`-role also has to be selected) |
+| [🍬]Giveaway | - Upcoming giveaways (partipicating only for level 75+)
 
 #### Gender
 
@@ -193,7 +193,7 @@ If you want to share your social status please consider using the roles below.
 | Role | Achieving | Ability |
 | --- | --- | --- |
 | [👾] Bots | Be a bot | Bot specific |
-| Verified | Accept the rules | Reveal any channel besides the [selectable channels](#channel-visibility) above or the staff-only channels |
+| [✅]Verified | Accept the rules | Reveal any channel besides the [selectable channels](#channel-visibility) above or the staff-only channels |
 | everyone | Automatically given to every user | None |
 
 ---
@@ -244,4 +244,4 @@ Role reactions are reactions under messages which allow users to self select a r
 <!--- Copyright -->
 ## Copyright Notices
 
-© 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+© 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")
