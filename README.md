@@ -110,20 +110,22 @@ We offer a selection of different roles to every user. Some roles are self selec
 
 ### Moderation Roles
 
+Only with these roles are truly a member of the staff team. They have the authority over the server and can supervise the roles below them. 
+
 | Role | Abilities | 
 | --- | --- |
-| 👑Owner | Overall managment + Decision-making authority |
-| 🚨Head Administrator | Substitute of the Owner |
-| 🌐Head Moderator | Channel Managment + Supervision of the Moderators + Support |
-| 🌀Moderator | Channel Managment, Training of the trial mods + their supervision |
-| ❓Trail Mod | Basic Managment + Support |
-| ⚙️Server Staff | General role for the whole server moderation team |
+| [👑]Owner | Overall managment + Decision-making authority |
+| [🚨]sHead Administrator | Substitute of the Owner |
+| [🌐]Head Moderator | Channel Managment + Supervision of the Moderators + Support |
+| [🌀]Moderator | Channel Managment, Training of the trial mods + their supervision |
+| [❓]Trail Mod | Basic Managment + Support |
+| [⚙️]Server Staff | General role for the whole server moderation team |
 
 ### Level Roles
 
 These roles are applied automatatically by the Arcane Bot and provide special perks. In order to earn a role who have to particpate activly. A full leaderboard of every participant can be found here: [Link to Leaderboard]()
 
-> However messages in the channels liseted below do not give the user any xp. 
+> However messages in the channels listed below do not give the user any xp. 
 
 - `support` 
 - `logs` 
@@ -143,27 +145,29 @@ These roles can be selected by the user himself through role reactions in the `�
 
 #### Channel Visibility 
 
+The roles below help you to select which channles you can see and chat in. 
+
 |Role | Catogory/Channel Reaveal |
 | --- | --- |
 | 18+ Content | -『🔞』18-plus-content <br> -『⚠』fvck-humanity |
 | 18- Content | -『💬』clean-general |
+| Chat | -『💬』general |
 | True Fan | - Moni Heichou *(Category)* |
 
 
 #### Notifcation Roles
 
-> The roles below show which options do you have to opt in and opt out certain notifications. 
+The roles below show which options do you have to opt in and opt out certain notifications. 
 
 | Role | Type of Information |
 | --- | --- |
 | Ping | - News <br> - Upcoming events |
 | True Fan+ | - Updates regarding new books (`True Fan`-role also has to be selected) |
-| Giveaway | - Upcoming giveaways (only level 75+)
-| (everyone)[[*]](#any-other-roles)| - Emergencies <br> - Major server updates |
+| Giveaway | - Upcoming giveaways (partipicating only for level 75+)
 
 #### Gender
 
-> Under this section we offer the users to select their gender identity. 
+Under this section we offer the users to select their gender identity. 
 
 <details>
 <summary>Non-Binary Gender identities</summary>
@@ -179,15 +183,16 @@ These roles can be selected by the user himself through role reactions in the `�
 
 #### Social Status
 
-- Simp
+If you want to share your social status please consider using the roles below. 
+- Simp 
+- Lost 
 - Married
-- Lost
-- 
 
 ### Any Other Roles
 
 | Role | Achieving | Ability |
 | --- | --- | --- |
+| [👾] Bots | Be a bot | Bot specific |
 | Verified | Accept the rules | Reveal any channel besides the [selectable channels](#channel-visibility) above or the staff-only channels |
 | everyone | Automatically given to every user | None |
 
