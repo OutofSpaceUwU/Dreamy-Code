@@ -37,7 +37,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
     - [Any Other Roles](#any-other-roles)
   - [Commands](#commands)
     - [Active Bots](#active-bots)
-    - [Standart users](#standart-users)
+    - [Standard users](#standard-users)
     - [Admin users](#admin-users)
   - [How do we handle rule violations?](#how-do-we-handle-rule-violations)
   - [Events](#events)
@@ -52,15 +52,16 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 Under this section we post the current status of what we are working on. 
 
-- [ ] organize Roles
+- [x] organize Roles
 - [ ] create channels with different swearing word levels
-- [ ] add Arcane bot for levelling
+- [x] add Arcane bot for levelling
   - only users with a certain level are candites for mods or etc. (replace classic level system)
-- [x] create a stage cahnnel for events
-- [ ] selfselecteble roles
+- [x] create a stage channel for events
+- [x] self-selecteble roles
 - [ ] potentially replace YAG role reactions with Dyno role reactions
 - [x] reorganize channels
 - [ ] create new rules
+- [ ] welcome messages (Dyno bot)
 
 ---
 <!-- Structure -->
@@ -80,7 +81,7 @@ The server is structered in different voice and text channels. To keep things or
 | | 〔🏷〕rollen | A channel where users can select roles for themselves |
 | *General - Text* | 『💬』general | The regular chat without any specific topic |
 | | 『💬』clean-general | The regular chat + not a single swearing word |
-| | 『🔞』18-plus-content | This channel is related to nsfw messages and images | 
+| | 『🔞』18-plus-content | This channel is related to nsfw[[²]](#lol) messages and images | 
 | | 『⚠』fvck-humanity | Life sucks sometimes |
 | | 『👾』bot-commands | The only channel where bot commands are allowed |
 |*Moni Heichou* | 『⛈』brainstorming | Thoughts from Moni Heichou |
@@ -92,7 +93,7 @@ The server is structered in different voice and text channels. To keep things or
 | | 『👥』Lounge #2 | Same as  `『👥』Lounge #1` |
 | | 『🔒』Private VC | A voice chat for general use, but limited to a smaller number of users |
 | | 『🎧』Music [BOTS] | A voice chat to enjoy some nice music with your friends |
-| *Staff Rooms* | support | Creation of support tickets |
+| *Staff Rooms* | 『🆘』support | Creation of support tickets |
 | | 『👷』staff | A chat for the staff |
 | | 『🗃️』logs | A chat for logs produced by bots |
 | | 『🔧』Support | A voice chat related to support tickets |
@@ -103,7 +104,7 @@ The server is structered in different voice and text channels. To keep things or
 <!-- Roles -->
 ## The different roles and how to achieve them
 
-We offer a selection of different roles to every user. Some roles are self selectable like for example `XX`. These can be applied and removed through role reactions[[¹]](#1-role-reactions). On the other hand some roles have to be applied through a staff member. Besides that bots also create roles for theirselves. These exists, but are not listed below. 
+We offer a selection of different roles to every user. Some roles are self-selectable like for example `XX`. These can be applied and removed through role reactions[[¹]](#1-role-reactions). On the other hand some roles have to be applied through a staff member. Besides that bots also create roles for theirselves. These exists, but are not listed below. 
 <br>As mentioned before a few roles also reveal channels or categories. This is used mostly for moderation roles, but also for the `『⚠』fvck-humanity` channel. 
 
 > <br> *The categories and roles are sorted by hierarchy.
@@ -119,7 +120,7 @@ Only with these roles are truly a member of the staff team. They have the author
 | [🌐]Head Moderator | Channel Managment + Supervision of the Moderators + Support |
 | [🌀]Moderator | Channel Managment, Training of the trial mods + their supervision |
 | [❓]Trail Mod | Basic Managment + Support |
-| [⚙️]Server Staff | General role for the whole server moderation team |
+| Server Staff | General role for the whole server moderation team |
 
 ### Level Roles
 
@@ -136,7 +137,7 @@ These roles are applied automatatically by the Arcane Bot and provide special pe
 | [💯]Level 100 | Early acces to books + everything below | 502,500 | 
 | [📈]Level 75 | Partipicating in giveaways + everything below | 283,125 |
 | [✨]Level 50 | Own the ability to speak in the event channel + everything below| 126,250 |
-| [💓]Level 25 | Votes on cummunity questions count twice | 31,875 |
+| [💓]Level 25 | Votes on community questions count twice | 31,875 |
 | [🔥]Level 10 | Vote for new server features | 5,250 |
 
 ### Selectable Roles
@@ -210,14 +211,15 @@ If you want to share your social status please consider using the roles below.
 | Bot | Usage |
 | --- | --- |
 | [Dyno](https://dyno.gg/) | Moderation, |
-| [Xenon]() | Backups |
-| [Arcane]() | Leveling |
-| [ServerStats]()| General server statistics |
-| [TicketTool]() | Support ticket creation |
+| [Xenon](https://xenon.bot/) | Backups |
+| [Arcane](https://arcane.bot/) | Leveling |
+| [ServerStats](https://serverstatsbot.com/)| General server statistics |
+| [TicketTool](https://tickettool.xyz/) | Support ticket creation |
+| [Hydra](https://hydra.bot/) | Play music |
 
 </details>
 
-### Standart users
+### Standard users
 
 ### Admin users
 
