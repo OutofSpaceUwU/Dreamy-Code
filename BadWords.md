@@ -4,71 +4,168 @@
 Table of Content
 
 - [Swearing Word List](#swearing-word-list)
-  - [Basic Swear Words](#basic-swear-words)
+  - [Basic Blacklist](#basic-blacklist)
+  - [Full Blacklist](#full-blacklist)
 
 
-## Basic Swear Words
+## Basic Blacklist
 
 Blocked words on the normal chats
 <details>
 <summary>Copy-Paste List</summary>
 
 ```
-anal,Hodensack,Bastard,Schlampe,Biatch,Blowjob,Blowjob,Titten,Arschloch,Buttplug,Nigger,Fotze,Dildo,Schwuchtel,ficken,f u c k,Wichse,Schamlippen,Nigger,nigga,Penis,Muschi,Schlampe,Sperma,Wichser,Fotze,Vagina,wichsen,Hure,Scrotum,Bastard,Slut,Biatch,Blowjob,Blowjob,Tits,Asshole,Buttplug,Cunt,Faggot,fuck,jizz,labia,pussy,slut,sperm,motherfucker,Cunt,jerk off,Whore
+anal,Arschloch,Asshole,Bastard,Biatch,Blowjob,Blow job,Buttplug,Cunt,Dildo,f u c k,Faggot,ficken,Fotze,fuck,Hodensack,Hure,jerk off,jizz,labia,motherfucker,Muschi,nigga,Nigger,Penis,pussy,Schamlippen,Schlampe,Schwuchtel,Scrotum,Slut,sperm,Sperma,Tits,Titten,Vagina,Whore,Wichse,wichsen,Wichser
 ```
-
 </details>
 
-<!-- German -->
-,anal<br>
-,Hodensack<br>
-,Bastard<br>
-,Schlampe<br>
-,Biatch<br>
-,Blowjob<br>
-,Blowjob<br>
-,Titten<br>
-,Arschloch<br>
-,Buttplug<br>
-,Nigger<br>
-,Fotze<br>
-,Dildo<br>
-,Schwuchtel<br>
-,ficken<br>
-,f u c k<br>
-,Wichse<br>
-,Schamlippen<br>
-,Nigger<br>
-,nigga<br>
-,Penis<br>
-,Muschi<br>
-,Schlampe<br>
-,Sperma<br>
-,Wichser<br>
-,Fotze<br>
-,Vagina<br>
-,wichsen<br>
-,Hure<br>
+<details>
+<summary>Readeable List</summary>
 
-<!-- English -->
-,Scrotum<br>
-,Bastard<br>
-,Slut<br>
-,Biatch<br>
-,Blowjob<br>
-,Blowjob<br>
-,Tits<br>
-,Asshole<br>
-,Buttplug<br>
-,Cunt<br>
-,Faggot<br>
-,fuck<br>
-,jizz<br>
-,labia<br>
-,pussy<br>
-,slut<br>
-,sperm<br>
-,motherfucker<br>
-,Cunt<br>
-,jerk off<br>
-,Whore<br>
+- anal
+- Arschloch
+- Asshole
+- Bastard
+- Biatch
+- Blowjob
+- Blow job
+- Buttplug
+- Cunt
+- Dildo
+- f u c k
+- Faggot
+- ficken
+- Fotze
+- fuck
+- Hodensack
+- Hure
+- jerk off
+- jizz
+- labia
+- motherfucker
+- Muschi
+- nigga
+- Nigger
+- Penis
+- pussy
+- Schamlippen
+- Schlampe
+- Schwuchtel
+- Scrotum
+- Slut
+- sperm
+- Sperma
+- Tits
+- Titten
+- Vagina
+- Whore
+- Wichse
+- wichsen
+- Wichser
+</details>
+
+## Full Blacklist
+
+Blocked words on the `『💬』clean-general`-channel
+
+<details>
+<summary>Copy-Paste List</summary>
+
+```
+anal,anus,Arsch,arse,ass,balls,ballsack,bastard,biatch,bitch,bloody,blow,blowjob,bollock,bollok,boner,boob,bugger,bum,Butt,butt,clitoris,cock,coon,cunt,damn,dick,dildo,dyke,felching,fellate,fellatio,Fick,ficken,flange,Fotze,fuck,fudge,Fudge-Packer,Hodensack,Hure,jerk off,jizz,Klitoris,knob,labia,muff,Muschi,nigga,nigger,penis,piss,pissen,plug,prick,pube,pussy,Schamhaar,Schamlippen,Scheiße,Scheißhaufen,Schlampe,Schwanz,Schwuchtel,scrotum,sex,sh1t,shit,slut,smegma,Sperma,spunk,tit,tits,Titten,tosser,turd,twat,vagina,wank,whore,Wichse,wichsen,Wichser
+```
+</details>
+
+<details>
+<summary>Readeble List</summary>
+
+- anal
+- anus
+- Arsch
+- arse
+- ass
+- balls
+- ballsack
+- bastard
+- biatch
+- bitch
+- bloody
+- blow
+- blowjob
+- bollock
+- bollok
+- boner
+- boob
+- bugger
+- bum
+- Butt
+- butt
+- clitoris
+- cock
+- coon
+- cunt
+- damn
+- dick
+- dildo
+- dyke
+- felching
+- fellate
+- fellatio
+- Fick
+- ficken
+- flange
+- Fotze
+- fuck
+- fudge
+- Fudge-Packer
+- Hodensack
+- Hure
+- jerk off
+- jizz
+- Klitoris
+- knob
+- labia
+- muff
+- Muschi
+- nigga
+- nigger
+- penis
+- piss
+- pissen
+- plug
+- prick
+- pube
+- pussy
+- Schamhaar
+- Schamlippen
+- Scheiße
+- Scheißhaufen
+- Schlampe
+- Schwanz
+- Schwuchtel
+- scrotum
+- sex
+- sh1t
+- shit
+- slut
+- smegma
+- Sperma
+- spunk
+- tit
+- tits
+- Titten
+- tosser
+- turd
+- twat
+- vagina
+- wank
+- whore
+- Wichse
+- wichsen
+- Wichser
+</details>
+
+<!--- Copyright --->
+---
+
+:copyright: 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")

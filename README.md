@@ -211,6 +211,7 @@ If you want to share your social status please consider using the roles below.
 | Bot | Usage |
 | --- | --- |
 | [Dyno](https://dyno.gg/) | Moderation, |
+| [YAGbdb](https://yagpdb.xyz/) | Moderation
 | [Xenon](https://xenon.bot/) | Backups |
 | [Arcane](https://arcane.bot/) | Leveling |
 | [ServerStats](https://serverstatsbot.com/)| General server statistics |
@@ -246,4 +247,4 @@ Role reactions are reactions under messages which allow users to self select a r
 <!--- Copyright -->
 ## Copyright Notices
 
-© 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")
+:copyright: 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")
