@@ -1,0 +1,46 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Regeln",
+      "color": 16741141,
+      "fields": [
+        {
+          "name": "§1 Wir wahren einen respektvollen Umgang miteinander.",
+          "value": "- Andere werden nicht verurteilt, solange ihre Meinung rechtswidrig ist\n\n- Die Meinung anderer wird akzeptiert. Obwohl, das Niedermachen anderer Meinungen (und Mobbing grundsätzlich) nicht geduldet wird, sind konstruktive Diskussionen gestattet. \n\n- Vulgäre Sprache sind nur in den jeweiligen Channels erlaubt. Dennoch bitten wir so weit, wie möglich auf diese zu verzichten. \n--> <#clean_chat>\n--> <#moderate_chat>\n--><#unmoderated_chat>"
+        },
+        {
+          "name": "§2 Trigger-Warnungen sind durchweg anzubringen.",
+          "value": "Themen, bei denen diese anzubringen sind, sind: \n\n- Rape\n- Gore\n- Primäre- und Sekundäregeschlechtsteile\n- Körperteile an denen Verletzungen vorliegen \n- Abuse bei jeglichen Lebewesen"
+        },
+        {
+          "name": "§3 Die Entscheidungsgewalt liegt alleinig bei Moni Heichou.",
+          "value": "- Diskussionen und Vorschläge sind erlaubt und erwünscht, jedoch liegt die finale Entscheidung bei Moni und dem Moderationsteam. \n\n- Das Fragen nach Rollen ist unerwünscht. Das Moderationsteam verteilt Rollen eigenständig und zur gegebener Zeit."
+        },
+        {
+          "name": "§4 LGBTQ",
+          "value": "asd"
+        },
+        {
+          "name": "§5 Politische Meinungen",
+          "value": "- Das Vertreten von politischen Meinungen und das Ansprechen politischer Themen ist nicht erwünscht und verfehlt das Thema des Servers. \nObwohl der Server auch Channel abseits der Fantasybücher-bezogenen Channel bietet, liegt dennoch der Fokus auf diesen."
+        },
+        {
+          "name": "§6 Kein Spam",
+          "value": "- Das Versenden von 7 Nachrichten innerhalb von 60 Sekunden wird als Spam gewertet."
+        },
+        {
+          "name": "§7 Keine Selfpromotion",
+          "value": "- Weder Links noch andere Wege der Eigenwerbung sind nicht erlaubt"
+        },
+        {
+          "name": "§8 Sprache",
+          "value": "- Aus Gründen der Moderation sind lediglich Nachrichten auf Englisch und Deutsch erlaubt"
+        }
+      ]
+    }
+  ],
+  "username": "Dreamy Code",
+  "avatar_url": "https://i.imgur.com/CqHPqRk.png",
+  "attachments": []
+}
