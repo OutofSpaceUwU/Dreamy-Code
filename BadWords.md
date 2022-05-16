@@ -168,4 +168,4 @@ anal,anus,Arsch,arse,ass,balls,ballsack,bastard,biatch,bitch,bloody,blow,blowjob
 <!--- Copyright --->
 ---
 
-:copyright: 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")
+©️ 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")

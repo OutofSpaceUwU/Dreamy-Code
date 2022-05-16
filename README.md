@@ -315,4 +315,4 @@ NSFW stands for "Not Safe for Work" and is another term for adult content.
 <!--- Copyright -->
 ## Copyright Notices
 
-:copyright: 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")
+©️ 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")
