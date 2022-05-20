@@ -33,6 +33,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
       - [Channel Visibility](#channel-visibility)
       - [Notifcation Roles](#notifcation-roles)
       - [Gender](#gender)
+      - [Sexuality](#sexuality)
       - [Social Status](#social-status)
     - [Any Other Roles](#any-other-roles)
   - [How do we handle rule violations?](#how-do-we-handle-rule-violations)
@@ -75,7 +76,6 @@ Under this section we post the current status of what we are working on.
   - only users with a certain level are candites for mods or etc. (replace classic level system)
 - [x] create a stage channel for events
 - [x] self-selecteble roles
-- [ ] potentially replace YAG role reactions with Dyno role reactions
 - [x] reorganize channels
 - [ ] create new rules
 - [ ] welcome messages (Dyno bot)
@@ -195,6 +195,25 @@ Under this section we offer the users to select their gender identity.
 | XY   | Male       |
 | XXX  | Non-Binary |
 
+#### Sexuality
+
+If you wish so, you can select one of the roles below to select your sexuality.
+<details>
+<summary>Disclaimer</summary>
+
+> Currently we only offer a certain number of sexualities as it would get way too complex if we would add every single sexuality. Therefore we decided to synnc our available roles with [this list](https://de.wikipedia.org/wiki/Sexuelle_Orientierung#Kategorien_und_Abgrenzung) of official sexualities from Wikipedia™. 
+
+</details>
+
+| Rolename    | Fullname                                                                       |
+| ----------- | ------------------------------------------------------------------------------ |
+| Hetero      | [Heterosexual (Straight)](https://de.wikipedia.org/wiki/Heterosexualit%C3%A4t) |
+| Homosexuell | [Homosexual (Gay)](https://de.wikipedia.org/wiki/Homosexualit%C3%A4t)          |
+| Bisexuell   | [Bisexual](https://de.wikipedia.org/wiki/Bisexualit%C3%A4t)                    |
+| Asexuell    | [Asexual](https://de.wikipedia.org/wiki/Asexualit%C3%A4t)                      |
+| Polysexuell | [Polysexual](https://de.wikipedia.org/wiki/Polysexualit%C3%A4t)                |
+| Panssexuell | [Pansexual](https://de.wikipedia.org/wiki/Pansexualit%C3%A4t)                  |
+
 #### Social Status
 
 If you want to share your social status please consider using the roles below. 
@@ -204,11 +223,11 @@ If you want to share your social status please consider using the roles below.
 
 ### Any Other Roles
 
-| Role        | Achieving                         | Ability                                                                                                    |
-| ----------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [👾] Bots    | Be a bot                          | Bot specific                                                                                               |
-| [✅]Verified | Accept the rules                  | Reveal any channel besides the [selectable channels](#channel-visibility) above or the staff-only channels |
-| everyone    | Automatically given to every user | None                                                                                                       |
+ | Role         | Achieving                         | Ability                                                                                                    |
+ | ------------ | --------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+ | [👾] Bots     | Be a bot                          | Bot specific                                                                                               |
+ | [✅] Verified | Accept the rules                  | Reveal any channel besides the [selectable channels](#channel-visibility) above or the staff-only channels |
+ | everyone     | Automatically given to every user | None                                                                                                       |
 
 ---
 <!--- Rules -->
@@ -244,6 +263,7 @@ Here are the current rules and their consequences for the Server listed.
 
 - Use caplocks, emotes and etc. in comman sense
 - Do not spam
+  - (Moni is excluded from this rule)
 - Use the `spoiler`-option if it is neccessary
 - Forbidden content
   - NSFW[[²]](#2-nsfw-not-safe-for-work) (except the 18+ channels)
