@@ -15,7 +15,7 @@ Blocked words on the normal chats
 <summary>Copy-Paste List</summary>
 
 ```
-anal,Arschloch,Asshole,Bastard,Biatch,Blowjob,Blow job,Buttplug,Cunt,Dildo,f u c k,Faggot,ficken,Fotze,fuck,Hodensack,Hure,jerk off,jizz,labia,motherfucker,Muschi,nigga,Nigger,Penis,pussy,Schamlippen,Schlampe,Schwuchtel,Scrotum,Slut,sperm,Sperma,Tits,Titten,Vagina,Whore,Wichse,wichsen,Wichser
+anal,Arschloch,Asshole,Bastard,Biatch,Blowjob,Blow job,Buttplug,Cunt,Dildo,f u c k,Faggot,ficken,Fotze,fuck,fvck,Hodensack,Hure,jerk off,jizz,labia,motherfucker,Muschi,nigga,Nigger,Penis,pussy,Schamlippen,Schlampe,Schwuchtel,Scrotum,Slut,sperm,Sperma,Tits,Titten,Vagina,Whore,Wichse,wichsen,Wichser
 ```
 </details>
 
@@ -37,6 +37,7 @@ anal,Arschloch,Asshole,Bastard,Biatch,Blowjob,Blow job,Buttplug,Cunt,Dildo,f u c
 - ficken
 - Fotze
 - fuck
+- fvck
 - Hodensack
 - Hure
 - jerk off
@@ -66,13 +67,13 @@ anal,Arschloch,Asshole,Bastard,Biatch,Blowjob,Blow job,Buttplug,Cunt,Dildo,f u c
 
 ## Full Blacklist
 
-Blocked words on the `『💬』clean-general`-channel
+Full Blocked List (Not used currently)
 
 <details>
 <summary>Copy-Paste List</summary>
 
 ```
-anal,anus,Arsch,arse,ass,balls,ballsack,bastard,biatch,bitch,bloody,blow,blowjob,bollock,bollok,boner,boob,bugger,bum,Butt,butt,clitoris,cock,coon,cunt,damn,dick,dildo,dyke,felching,fellate,fellatio,Fick,ficken,flange,Fotze,fuck,fudge,Fudge-Packer,Hodensack,Hure,jerk off,jizz,Klitoris,knob,labia,muff,Muschi,nigga,nigger,penis,piss,pissen,plug,prick,pube,pussy,Schamhaar,Schamlippen,Scheiße,Scheißhaufen,Schlampe,Schwanz,Schwuchtel,scrotum,sex,sh1t,shit,slut,smegma,Sperma,spunk,tit,tits,Titten,tosser,turd,twat,vagina,wank,whore,Wichse,wichsen,Wichser
+anal,anus,Arsch,arse,ass,balls,ballsack,bastard,biatch,bitch,bloody,blow,blowjob,bollock,bollok,boner,boob,bugger,bum,Butt,butt,clitoris,cock,coon,cunt,damn,dick,dildo,dyke,felching,fellate,fellatio,Fick,ficken,flange,Fotze,fuck,fvck,fudge,Fudge-Packer,Hodensack,Hure,jerk off,jizz,Klitoris,knob,labia,muff,Muschi,nigga,nigger,penis,piss,pissen,plug,prick,pube,pussy,Schamhaar,Schamlippen,Scheiße,Scheißhaufen,Schlampe,Schwanz,Schwuchtel,scrotum,sex,sh1t,shit,slut,smegma,Sperma,spunk,tit,tits,Titten,tosser,turd,twat,vagina,wank,whore,Wichse,wichsen,Wichser
 ```
 </details>
 
@@ -116,6 +117,7 @@ anal,anus,Arsch,arse,ass,balls,ballsack,bastard,biatch,bitch,bloody,blow,blowjob
 - flange
 - Fotze
 - fuck
+- fvck
 - fudge
 - Fudge-Packer
 - Hodensack

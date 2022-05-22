@@ -41,6 +41,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
     - [§2 Interaction with other Users](#2-interaction-with-other-users)
     - [§3 Posting Content](#3-posting-content)
     - [§4 Using the voice channels](#4-using-the-voice-channels)
+    - [Consequences](#consequences)
   - [Commands](#commands)
     - [Active Bots](#active-bots)
     - [Standard users](#standard-users)
@@ -191,9 +192,11 @@ If you wish so, you can select one of the roles below to select your sexuality.
 <details>
 <summary>Disclaimer</summary>
 
-> Currently we only offer a certain number of sexualities as it would get way too complex if we would add every single sexuality. Therefore we decided to synnc our available roles with [this list](https://de.wikipedia.org/wiki/Sexuelle_Orientierung#Kategorien_und_Abgrenzung) of official sexualities from Wikipedia™. 
+> Currently we only offer a certain number of sexualities as it would get way too complex if we would add every single sexuality. Therefore we decided to sync our available roles with [this list](https://de.wikipedia.org/wiki/Sexuelle_Orientierung#Kategorien_und_Abgrenzung) of official sexualities from Wikipedia™. 
 
 </details>
+
+Fullname needs update
 
 | Rolename    | Fullname                                                                       |
 | ----------- | ------------------------------------------------------------------------------ |
@@ -268,8 +271,18 @@ Here are the current rules and their consequences for the Server listed.
 ### §4 Using the voice channels
 
 - No kind NSFW[[²]](#2-nsfw-not-safe-for-work) in the voice channels
-- No Ear-Rape[[3]](#-ear-rape)
+- No Ear-Rape[[3]](#3-ear-rape)
 - Use the `🎧』Music [BOTS]`mainly for music
+
+### Consequences
+
+Several rule vilalations are handled through the Dyno™-Bot. Which one are exactly handled by it are listed here. 
+
+<details>
+<summary>Dyno™-Bot Rule-Vialations</summary>
+
+`Paste Screenshot Here`
+</details>
 
 ---
 <!--- Bot Commands -->
