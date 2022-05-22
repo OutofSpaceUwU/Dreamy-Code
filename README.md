@@ -49,17 +49,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
   - [Terms and their explanation.](#terms-and-their-explanation)
     - [1. Role reactions](#1-role-reactions)
     - [2. NSFW (Not Safe for Work)](#2-nsfw-not-safe-for-work)
-  - [Image Links](#image-links)
-  - [Copyright Notices](#copyright-notices)
->>>>>>> 2a6acda (Git Push Test)
-  - [Commands](#commands)
-    - [Active Bots](#active-bots)
-    - [Standard users](#standard-users)
-    - [Admin users](#admin-users)
-  - [Events](#events)
-  - [Terms and their explanation.](#terms-and-their-explanation)
-    - [1. Role reactions](#1-role-reactions)
-    - [2. NSFW (Not Safe for Work)](#2-nsfw-not-safe-for-work)
+    - [3. Ear-Rape](#3-ear-rape)
   - [Image Links](#image-links)
   - [Copyright Notices](#copyright-notices)
 </details>
@@ -265,6 +255,7 @@ Here are the current rules and their consequences for the Server listed.
 - Do not spam
   - (Moni is excluded from this rule)
 - Use the `spoiler`-option if it is neccessary
+- Use the relavant channel for the topic you would like to talk about
 - Forbidden content
   - NSFW[[²]](#2-nsfw-not-safe-for-work) (except the 18+ channels)
   - Sexualization of minors
@@ -276,7 +267,9 @@ Here are the current rules and their consequences for the Server listed.
 
 ### §4 Using the voice channels
 
-- 
+- No kind NSFW[[²]](#2-nsfw-not-safe-for-work) in the voice channels
+- No Ear-Rape[[3]](#-ear-rape)
+- Use the `🎧』Music [BOTS]`mainly for music
 
 ---
 <!--- Bot Commands -->
@@ -323,6 +316,10 @@ Role reactions are reactions under messages which allow users to self select a r
 ### 2. NSFW (Not Safe for Work)
 
 NSFW stands for "Not Safe for Work" and is another term for adult content. 
+
+### 3. Ear-Rape
+
+Ear-Raping simply means shouting inside the voice channels to "hurt" the ears of other users. 
 
 ---
 <!-- Image Sources -->
