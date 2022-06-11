@@ -24,7 +24,8 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 - [Moni Heichou Discord Server Github Page](#moni-heichou-discord-server-github-page)
   - [Table of content](#table-of-content)
-  - [What are we currently working on?](#what-are-we-currently-working-on)
+  - [Update Log](#update-log)
+  - [Planned Features](#planned-features)
   - [The server structure](#the-server-structure)
   - [The different roles and how to achieve them](#the-different-roles-and-how-to-achieve-them)
     - [Moderation Roles](#moderation-roles)
@@ -45,10 +46,25 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
   - [Commands](#commands)
     - [Active Bots](#active-bots)
     - [Standard users](#standard-users)
+      - [Dyno](#dyno)
+        - [Moderator](#moderator)
+      - [YAGPDB](#yagpdb)
+      - [Xenon](#xenon)
+      - [Arcane](#arcane)
+      - [ServerStats](#serverstats)
+      - [TicketTool](#tickettool)
+      - [Hydra](#hydra)
     - [Admin users](#admin-users)
+      - [Dyno](#dyno-1)
+      - [YAGPDB](#yagpdb-1)
+      - [Xenon](#xenon-1)
+      - [Arcane](#arcane-1)
+      - [ServerStats](#serverstats-1)
+      - [TicketTool](#tickettool-1)
+      - [Hydra](#hydra-1)
   - [Events](#events)
   - [Terms and their explanation.](#terms-and-their-explanation)
-    - [1. Role reactions](#1-role-reactions)
+    - [1. Role Reactions](#1-role-reactions)
     - [2. NSFW (Not Safe for Work)](#2-nsfw-not-safe-for-work)
     - [3. Ear-Rape](#3-ear-rape)
   - [Image Links](#image-links)
@@ -56,60 +72,59 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 </details>
 
 --- 
-<!-- Current Progress -->
-## What are we currently working on?
+<!-- Updates -->
+## Update Log
 
-Under this section we post the current status of what we are working on. 
+- Users in `Musik [BOT]` are always muted
 
-- [x] organize Roles
-- [ ] create channels with different swearing word levels
-- [x] add Arcane bot for levelling
-  - only users with a certain level are candites for mods or etc. (replace classic level system)
-- [x] create a stage channel for events
-- [x] self-selecteble roles
-- [x] reorganize channels
-- [ ] create new rules
-- [ ] welcome messages (Dyno bot)
+Under this section we present our newest feature. 
+
+<!-- Planned -->
+## Planned Features
+
+An idea of mine has been the merging of the role play servers with this main server. I (OutofSpace) am currently still waiting for feedback. For now te role play category is paused.
+
+| Category    | Channel             | Usecase                                         |
+| ----------- | ------------------- | ----------------------------------------------- |
+| *Role Play* | characters          | Introduce your character                        |
+|             | organization        | Notes and anything else regarding the role play |
+|             | main role play chat | Text role play                                  |
+|             | RP VC               | Role play voice chat                            |
 
 ---
 <!-- Structure -->
 ## The server structure
 
 The server is structered in different voice and text channels. To keep things organized for everybody only with certain roles certain channels will be displayed. For example is the `『🔞』18-plus-content` channel only for users with the `18+ Content` role visible. 
->The following table shows every available channel and their particular usecase. 
+> The following table shows every available channel and their particular usecase. 
 
-| Caterogy          | Channel             | Usecase                                                                                                   |
-| ----------------- | ------------------- | --------------------------------------------------------------------------------------------------------- |
-| *ServerStats*     | 〔👥〕Users: (x)     | The current member count                                                                                  |
-|                   | 〔🤖〕Bots: (x)      | The current bot count                                                                                     |
-| *Important*       | 〔📝〕regeln         | The current rules                                                                                         |
-|                   | 〔🔔〕ankündigungen  | Information about current changes and events                                                              |
-|                   | 〔🎉〕willkommen     | Welcome messages for new users                                                                            |
-|                   | 〔❓〕server-info    | General information about the server as a whole                                                           |
-|                   | 〔🏷〕rollen         | A channel where users can select roles for themselves                                                     |
-| *Main Chat*       | 『💬』lobby          | The regular chat without any specific topic                                                               |
-|                   | 『🔞』18-plus-lobby  | NSFW[[²]](#2-nsfw-not-safe-for-work) is allowed in this channel                                           |
-|                   | 『⚠』fvck-humanity  | Life sucks sometimes                                                                                      |
-|                   | 『👾』bot-commands   | The only channel where bot commands are allowed                                                           |
-| *Moni Heichou*    | 『⛈』brainstorming  | Thoughts from Moni Heichou                                                                                |
-|                   | 『🧡』fans-only      | Updates regarding new books                                                                               |
-|                   | 『✍️』ask-the-author | Questions and feedback from the community to Moni Heichou                                                 |
-| *Role Play*       | characters          | Introduce your character                                                                                  |
-|                   | organization        | Notes and anything else regarding the role play                                                           |
-|                   | main role play chat | Text role play                                                                                            |
-|                   | RP VC               | Role play voice chat                                                                                      |
-| *General - Voice* | 🔇muted🔇             | A channel for those who want to participate in a voice chat but do not have or want to use a microphone   |
-|                   | 『🎤』Events         | This channel is only for events with a host. Featureing silent joins and leaves + only certified speakers |
-|                   | 『👥』VC #1          | A voice chat for general use                                                                              |
-|                   | 『👥』VC #2          | Same as  `『👥』Lounge #1`                                                                                 |
-|                   | 『🔒』Private VC     | A voice chat for general use, but limited to a smaller number of users                                    |
-|                   | 『🎧』Music [BOTS]   | A voice chat to enjoy some nice music with your friends                                                   |
-| *Staff Rooms*     | 『🆘』support        | Creation of support tickets                                                                               |
-|                   | 『👷』staff          | A chat for the staff                                                                                      |
-|                   | 『🗃️』logs           | A chat for logs produced by bots                                                                          |
-|                   | 『🔧』Support        | A voice chat related to support tickets                                                                   |
-|                   | 『🕒』Waiting        | A channel where users wait for their voice support                                                        |
-|                   | 『🎓』Staff Meetings | A voice chat for staff members                                                                            |
+| Caterogy          | Channel        | Usecase                                                                                                   |
+| ----------------- | -------------- | --------------------------------------------------------------------------------------------------------- |
+| *ServerStats*     | Users: (x)     | The current member count                                                                                  |
+|                   | Bots: (x)      | The current bot count                                                                                     |
+| *Important*       | ankündigungen  | The current rules                                                                                         |
+|                   | regeln         | Information about current changes and events                                                              |
+|                   | willkommen     | Welcome messages for new users                                                                            |
+|                   | server-info    | General information about the server as a whole                                                           |
+|                   | rollen         | A channel where users can select roles for themselves                                                     |
+| *Main Chat*       | main-chat      | The regular chat without any specific topic                                                               |
+|                   | 18-plus-chat   | NSFW[[²]](#2-nsfw-not-safe-for-work) is allowed in this channel                                           |
+|                   | fvck-humanity  | Life sucks sometimes                                                                                      |
+|                   | bot-commands   | The only channel where bot commands are allowed                                                           |
+| *Moni Heichou*    | brainstorming  | Thoughts from Moni Heichou                                                                                |
+|                   | fans-only      | Updates regarding new books                                                                               |
+|                   | ask-the-author | Questions and feedback from the community to Moni Heichou                                                 |
+| *General - Voice* | Events         | This channel is only for events with a host. Featureing silent joins and leaves + only certified speakers |
+|                   | VC #1          | A voice chat for general use                                                                              |
+|                   | VC #2          | Same as  `『👥』Lounge #1`                                                                                 |
+|                   | Private VC     | A voice chat for general use, but limited to a smaller number of users                                    |
+|                   | Music [BOTS]   | A voice chat to enjoy some nice music with your friends                                                   |
+| *Staff Rooms*     | upport         | Creation of support tickets                                                                               |
+|                   | staff          | A chat for the staff                                                                                      |
+|                   | logs           | A chat for logs produced by bots                                                                          |
+|                   | Support        | A voice chat related to support tickets                                                                   |
+|                   | Waiting        | A channel where users wait for their voice support                                                        |
+|                   | Staff Meetings | A voice chat for staff members                                                                            |
 
 ---
 <!-- Roles -->
@@ -118,7 +133,7 @@ The server is structered in different voice and text channels. To keep things or
 We offer a selection of different roles to every user. Some roles are self-selectable like for example `XX`. These can be applied and removed through role reactions[[¹]](#1-role-reactions). On the other hand some roles have to be applied through a staff member. Besides that bots also create roles for theirselves. These exists, but are not listed below. 
 <br>As mentioned before a few roles also reveal channels or categories. This is used mostly for moderation roles, but also for the `『⚠』fvck-humanity` channel. 
 
-> <br> *The categories and roles are sorted by hierarchy.
+> *The categories and roles are sorted by hierarchy.
 
 ### Moderation Roles
 
@@ -135,13 +150,13 @@ Only with these roles are truly a member of the staff team. They have the author
 
 ### Level Roles
 
-These roles are applied automatatically by the Arcane Bot and provide special perks. In order to earn a role who have to particpate activly. A full leaderboard of every participant can be found here: [Link to Leaderboard]()
+These roles are applied automatatically by the Arcane Bot and provide special perks. In order to earn a role who have to particpate activly. A full leaderboard of every participant can be found here: https://arcane.bot/lb/MoniHeichou
 
 > However messages in the channels listed below do not give the user any xp. 
 
 - `support` 
 - `logs` 
-- `『👾』bot-commands`
+- `bot-commands`
 
 | Role         | Abilities                                                        | Required XP |
 | ------------ | ---------------------------------------------------------------- | ----------- |
@@ -159,12 +174,12 @@ These roles can be selected by the user himself through role reactions in the `�
 
 The roles below help you to select which channles you can see and chat in. 
 
-| Role        | Catogory/Channel Reaveal                     |
-| ----------- | -------------------------------------------- |
-| 18+ Content | -『🔞』18-plus-lobby <br> -『⚠』fvck-humanity |
-| Chat        | -『💬』lobby                                  |
-| True Fan    | - Moni Heichou *(Category)*                  |
-| Roleplay    | - Role Play *(Category)*                     |
+| Role        | Catogory/Channel Reaveal             |
+| ----------- | ------------------------------------ |
+| 18+ Content | - 18-plus-lobby <br> - fvck-humanity |
+| Chat        | - main-chat                          |
+| True Fan    | - Moni Heichou *(Category)*          |
+| Roleplay    | - Role Play *(Category)*             |
 
 
 #### Notifcation Roles
@@ -203,16 +218,14 @@ If you wish so, you can select one of the roles below to select your sexuality.
 
 </details>
 
-Fullname needs update
-
-| Rolename    | Fullname                                                                       |
-| ----------- | ------------------------------------------------------------------------------ |
-| Hetero      | [Heterosexual (Straight)](https://de.wikipedia.org/wiki/Heterosexualit%C3%A4t) |
-| Homosexuell | [Homosexual (Gay)](https://de.wikipedia.org/wiki/Homosexualit%C3%A4t)          |
-| Bisexuell   | [Bisexual](https://de.wikipedia.org/wiki/Bisexualit%C3%A4t)                    |
-| Asexuell    | [Asexual](https://de.wikipedia.org/wiki/Asexualit%C3%A4t)                      |
-| Polysexuell | [Polysexual](https://de.wikipedia.org/wiki/Polysexualit%C3%A4t)                |
-| Panssexuell | [Pansexual](https://de.wikipedia.org/wiki/Pansexualit%C3%A4t)                  |
+| Rolename    | Flag                                   |
+| ----------- | -------------------------------------- |
+| Hetero      | ![](Emojis/1369_flag_heterosexual.png) |
+| Homosexuell | 🏳️‍🌈                                      |
+| Bisexuell   | ![](Emojis/6131-bisexual-flag.png)     |
+| Asexuell    | ![](Emojis/9010-asexual-flag.png)      |
+| Polysexuell | ![](Emojis/1214-polysexual-flag.png)   |
+| Panssexuell | ![](Emojis/5409-pansexual-flag.png)    |
 
 #### Social Status
 
@@ -281,7 +294,7 @@ Here are the current rules and their consequences for the Server listed.
 
 - No kind NSFW[[²]](#2-nsfw-not-safe-for-work) in the voice channels
 - No Ear-Rape[[3]](#3-ear-rape)
-- Use the `🎧』Music [BOTS]`mainly for music
+- Use the `Music [BOTS]`mainly for music
 
 ### Consequences
 
@@ -297,29 +310,85 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 <!--- Bot Commands -->
 ## Commands
 
-<!--- <details>
-<summary>Bots</summary>            --->
+<details>
+<summary>Bots</summary>
 
 ### Active Bots
 
 > Here we list any actively used bot on the server. 
 
-| Bot                                        | Usage                     |
-| ------------------------------------------ | ------------------------- |
-| [Dyno](https://dyno.gg/)                   | Moderation,               |
-| [YAGPDB](https://yagpdb.xyz/)              | Moderation                |
-| [Xenon](https://xenon.bot/)                | Backups                   |
-| [Arcane](https://arcane.bot/)              | Leveling                  |
-| [ServerStats](https://serverstatsbot.com/) | General server statistics |
-| [TicketTool](https://tickettool.xyz/)      | Support ticket creation   |
-| [Hydra](https://hydra.bot/)                | Play music                |
+| Bot                                        | Usage                             |
+| ------------------------------------------ | --------------------------------- |
+| [Dyno](https://dyno.gg/)                   | Moderation,                       |
+| [YAGPDB](https://yagpdb.xyz/)              | Rolemenus[[¹]](#1-role-reactions) |
+| [Xenon](https://xenon.bot/)                | Backups                           |
+| [Arcane](https://arcane.bot/)              | Leveling                          |
+| [ServerStats](https://serverstatsbot.com/) | General server statistics         |
+| [TicketTool](https://tickettool.xyz/)      | Support ticket creation           |
+| [Hydra](https://hydra.bot/)                | Play music                        |
+| OwO                                        | Idk what this bot does lol        |
 
 </details>
 
 ### Standard users
 
+#### [Dyno](https://dyno.gg/commands)
+##### Moderator
+| Command     | Description                                                                       | Usage                                                                                                                                                                                               |
+| ----------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| clean       | Clean up Dyno's responses.                                                        | ?clean (optional number)                                                                                                                                                                            |
+| diagnose    | Diagnose any command or module in the bot to determine if there are any problems. | ?diagnose [command or module]                                                                                                                                                                       |
+| kick        | Kick a member.                                                                    | ?kick [user] [reason]                                                                                                                                                                               |
+| ignored     | List ignored users, roles, and channels                                           | ?ignored                                                                                                                                                                                            |
+| ban         | Ban a member, optional time limit                                                 | ?ban [user] [limit] [reason]ban save [user] [limit] [reason]                                                                                                                                        |
+| mute        | Mute a member so they cannot type.                                                | ?mute [user] [limit] [reason]                                                                                                                                                                       |
+| moderations | Get a list of active moderations (timed).                                         | ?moderations (user) (page)                                                                                                                                                                          |
+| undeafen    | Undeafen a member                                                                 | ?undeafen <user>                                                                                                                                                                                    |
+| members     | List members in a role(s) (max 90)                                                | ?members [role]                                                                                                                                                                                     |
+| rolepersist | Assign/unassign a role that persists if the user leaves and rejoins.              | ?rolepersist [user] [role], [optional reason]rolepersist add [user] [role], [optional reason]rolepersist remove [user] [role], [optional reason]rolepersist toggle [user] [role], [optional reason] |
+| unmute      | Unmute a member.                                                                  | ?unmute [user] (optional reason)                                                                                                                                                                    |
+| softban     | Softban a member (ban and immediate unban to delete user messages)                | ?softban [user] [reason]                                                                                                                                                                            |
+| warn        | Warn a member                                                                     | ?warn [user] (reason)                                                                                                                                                                               |
+| deafen      | Deafen a member                                                                   | ?deafen <user>                                                                                                                                                                                      |
+| lock        | Lock a channel with optional timer and message.                                   | ?lock [channel] (time) (message)                                                                                                                                                                    |
+| reason      | Supply a reason for a mod log case                                                | ?reason [case num] [reason]                                                                                                                                                                         |
+| modlogs     | Get a list of moderation logs for a user.                                         | ?modlogs [user] [page]                                                                                                                                                                              |
+| unlock      | Unlock a previously locked channel.                                               | ?unlock [channel] (message)                                                                                                                                                                         |
+| unban       | Unban a member.                                                                   | ?unban [user id] (optional reason)                                                                                                                                                                  |
+| warnings    | Get warnings for a user                                                           | ?warnings [user]                                                                                                                                                                                    |
+| case        | Show a single mod log case                                                        | ?case [Case ID]                                                                                                                                                                                     |
+| notes       | Get notes for a user                                                              | ?notes [user]                                                                                                                                                                                       |
+| delnote     | Delete a note about a member                                                      | ?delnote [user] [note ID]                                                                                                                                                                           |
+| note        | Add note(s) about a member                                                        | ?note [user] [text]                                                                                                                                                                                 |
+| temprole    | Assign/unassign a role that persists for a limited time.                          | ?temprole [user] [time] [role], [optional reason]temprole add [user] [time] [role], [optional reason]temprole remove [user] [role], [optional reason]                                               |
+| clearnotes  | Delete all notes for a member                                                     | ?clearnotes [user]                                                                                                                                                                                  |
+| delwarn     | Delete a warning                                                                  | ?unwarn [warning id]                                                                                                                                                                                |
+| editnote    | Edit a note about a member                                                        | ?editnote [user] [note ID] [note]                                                                                                                                                                   |
+| modstats    | Get moderation statistics for a mod/admin (may take up to 30 minutes to update).  | ?modstats [user]                                                                                                                                                                                    |
+| duration    | Change the duration of a mute/ban                                                 | ?duration [modlog ID] [limit]                                                                                                                                                                       |
+| lockdown    | Lock channels defined in moderation settings.                                     | ?lockdown (optional message)lockdown end (optional message)                                                                                                                                         |
+| star        | View starboard stats for a message                                                | ?stars [message ID/link]                                                                                                                                                                            |
+#### YAGPDB
+#### Xenon
+#### [Arcane](https://arcane.bot/commands)
+- /boosters (View all of the xp booster roles in the server)
+- /leaderboard (Get the top 10 of the leaderboard)
+- /level (View your own level)
+- /rewards (View all of the level rewards configured for the server)
+#### ServerStats
+#### TicketTool
+#### Hydra
+
 ### Admin users
 
+#### [Dyno](https://dyno.gg/commands)
+#### YAGPDB
+#### Xenon
+#### [Arcane](https://arcane.bot/commands)
+- /setlevel (Manually set a user to a specific level)
+#### ServerStats
+#### TicketTool
+#### Hydra
 
 ---
 <!--- Past Events -->
@@ -331,7 +400,7 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 
 Under this section we explain certain terms which might not be familiar with the majority of users. 
 
-### 1. Role reactions
+### 1. Role Reactions
 
 Role reactions are reactions under messages which allow users to self select a role. The actual action is performed by bots, so the roles are applied immediatly. 
 
