@@ -47,7 +47,6 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
     - [Active Bots](#active-bots)
     - [Standard users](#standard-users)
       - [Dyno](#dyno)
-        - [Moderator](#moderator)
       - [YAGPDB](#yagpdb)
       - [Xenon](#xenon)
       - [Arcane](#arcane)
@@ -56,6 +55,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
       - [Hydra](#hydra)
     - [Admin users](#admin-users)
       - [Dyno](#dyno-1)
+        - [Moderator](#moderator)
       - [YAGPDB](#yagpdb-1)
       - [Xenon](#xenon-1)
       - [Arcane](#arcane-1)
@@ -334,6 +334,20 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 ### Standard users
 
 #### [Dyno](https://dyno.gg/commands)
+#### YAGPDB
+#### Xenon
+#### [Arcane](https://arcane.bot/commands)
+- /boosters (View all of the xp booster roles in the server)
+- /leaderboard (Get the top 10 of the leaderboard)
+- /level (View your own level)
+- /rewards (View all of the level rewards configured for the server)
+#### ServerStats
+#### TicketTool
+#### Hydra
+
+### Admin users
+
+#### [Dyno](https://dyno.gg/commands)
 ##### Moderator
 | Command     | Description                                                                       | Usage                                                                                                                                                                                               |
 | ----------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -369,20 +383,6 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 | duration    | Change the duration of a mute/ban                                                 | ?duration [modlog ID] [limit]                                                                                                                                                                       |
 | lockdown    | Lock channels defined in moderation settings.                                     | ?lockdown (optional message)lockdown end (optional message)                                                                                                                                         |
 | star        | View starboard stats for a message                                                | ?stars [message ID/link]                                                                                                                                                                            |
-#### YAGPDB
-#### Xenon
-#### [Arcane](https://arcane.bot/commands)
-- /boosters (View all of the xp booster roles in the server)
-- /leaderboard (Get the top 10 of the leaderboard)
-- /level (View your own level)
-- /rewards (View all of the level rewards configured for the server)
-#### ServerStats
-#### TicketTool
-#### Hydra
-
-### Admin users
-
-#### [Dyno](https://dyno.gg/commands)
 #### YAGPDB
 #### Xenon
 #### [Arcane](https://arcane.bot/commands)
