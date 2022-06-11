@@ -22,7 +22,7 @@ anal,Arschloch,Asshole,Bastard,Biatch,Blowjob,Blow job,Buttplug,Cunt,Dildo,f u c
 <details>
 <summary>Readeable List</summary>
 
-- anal
+- anal  
 - Arschloch
 - Asshole
 - Bastard
@@ -170,4 +170,4 @@ anal,anus,Arsch,arse,ass,balls,ballsack,bastard,biatch,bitch,bloody,blow,blowjob
 <!--- Copyright --->
 ---
 
-©️ 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")
+©️ 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑") 

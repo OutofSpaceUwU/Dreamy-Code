@@ -94,6 +94,10 @@ The server is structered in different voice and text channels. To keep things or
 | *Moni Heichou*    | 『⛈』brainstorming  | Thoughts from Moni Heichou                                                                                |
 |                   | 『🧡』fans-only      | Updates regarding new books                                                                               |
 |                   | 『✍️』ask-the-author | Questions and feedback from the community to Moni Heichou                                                 |
+| *Role Play*       | characters          | Introduce your character                                                                                  |
+|                   | organization        | Notes and anything else regarding the role play                                                           |
+|                   | main role play chat | Text role play                                                                                            |
+|                   | RP VC               | Role play voice chat                                                                                      |
 | *General - Voice* | 🔇muted🔇             | A channel for those who want to participate in a voice chat but do not have or want to use a microphone   |
 |                   | 『🎤』Events         | This channel is only for events with a host. Featureing silent joins and leaves + only certified speakers |
 |                   | 『👥』VC #1          | A voice chat for general use                                                                              |
@@ -160,15 +164,18 @@ The roles below help you to select which channles you can see and chat in.
 | 18+ Content | -『🔞』18-plus-lobby <br> -『⚠』fvck-humanity |
 | Chat        | -『💬』lobby                                  |
 | True Fan    | - Moni Heichou *(Category)*                  |
+| Roleplay    | - Role Play *(Category)*                     |
 
 
 #### Notifcation Roles
 
 The roles below show which options do you have to opt in and opt out certain notifications. 
 
-| Role | Type of Information |general -role also has to be selected) |
-| [🍬]Giveaway | - Upcoming giveaways (partipicating only for level 75+) |
-| [👏]Welcome Gang | - Welcome new members to the server | 
+| Role            | Type of Information                                     |
+| --------------- | ------------------------------------------------------- |
+| [📢]Ping         | - General updates and information                       |
+| [🍬]Giveaway     | - Upcoming giveaways (partipicating only for level 75+) |
+| [👏]Welcome Gang | - Welcome new members to the server                     |
 
 #### Gender
 
@@ -213,6 +220,8 @@ If you want to share your social status please consider using the roles below.
 - Simp 
 - Lost 
 - Married
+- Author
+- Student
 
 ### Any Other Roles
 
@@ -345,4 +354,4 @@ Ear-Raping simply means shouting inside the voice channels to "hurt" the ears of
 <!--- Copyright -->
 ## Copyright Notices
 
-©️ 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")
+© 2022 [OutofSpace](https://www.youtube.com/watch?v=dQw4w9WgXcQ "👑Lines of Code👑")
