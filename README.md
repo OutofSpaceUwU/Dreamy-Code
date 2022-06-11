@@ -168,7 +168,7 @@ These roles are applied automatatically by the Arcane Bot and provide special pe
 
 ### Selectable Roles
 
-These roles can be selected by the user himself through role reactions in the `〔🏷〕rollen`-channel. 
+These roles can be selected by the user himself through role reactions in the `rollen`-channel. 
 
 #### Channel Visibility 
 
@@ -191,6 +191,7 @@ The roles below show which options do you have to opt in and opt out certain not
 | [📢]Ping         | - General updates and information                       |
 | [🍬]Giveaway     | - Upcoming giveaways (partipicating only for level 75+) |
 | [👏]Welcome Gang | - Welcome new members to the server                     |
+| [🎊]True Fan+    | - Information regarding new books                       |
 
 #### Gender
 
