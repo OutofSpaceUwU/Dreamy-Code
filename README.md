@@ -26,6 +26,8 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
   - [Table of content](#table-of-content)
   - [Update Log (Jun 12)](#update-log-jun-12)
   - [Planned Features](#planned-features)
+    - [Marriage Bot](#marriage-bot)
+    - [RolePlay](#roleplay)
   - [The server structure](#the-server-structure)
   - [The different roles and how to achieve them](#the-different-roles-and-how-to-achieve-them)
     - [Moderation Roles](#moderation-roles)
@@ -76,11 +78,20 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 ## Update Log (Jun 12)
 
 - Users in `Musik [BOT]` are always muted
-- Welcome Messages in `willkommen`by Dyno Bot (expiremental feature)
+- Welcome Messages in `willkommen`by Dyno Bot
+- Autorespond for questions regarding `sexualities`
+- Autodelete bot commands after 120 sec. in `bot-commands`
+- No Automod for banned words in `18-plus-chat`
+- Automod for Capslock disabled
+- DJ Role for `Level 25`users
+- Emojis max is set to 10
 
 <!-- Planned -->
 ## Planned Features
 
+### Marriage Bot
+
+### RolePlay
 An idea of mine has been the merging of the role play servers with this main server. I (OutofSpace) am currently still waiting for feedback. For now te role play category is paused.
 
 | Category    | Channel             | Usecase                                         |
@@ -162,7 +173,7 @@ These roles are applied automatatically by the Arcane Bot and provide special pe
 | [💯]Level 100 | Own the ability to speak in the event channel + everything below | 502,500     |
 | [📈]Level 75  | Partipicating in giveaways + everything below                    | 283,125     |
 | [✨]Level 50  | Early acces to books + everything below                          | 126,250     |
-| [💓]Level 25  | Votes on community questions count twice                         | 31,875      |
+| [💓]Level 25  | Play Music through the `Hydra`                                   | 31,875      |
 | [🔥]Level 10  | Vote for new server features                                     | 5,250       |
 
 ### Selectable Roles
