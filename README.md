@@ -24,7 +24,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 - [Moni Heichou Discord Server Github Page](#moni-heichou-discord-server-github-page)
   - [Table of content](#table-of-content)
-  - [Update Log](#update-log)
+  - [Update Log (Jun 12)](#update-log-jun-12)
   - [Planned Features](#planned-features)
   - [The server structure](#the-server-structure)
   - [The different roles and how to achieve them](#the-different-roles-and-how-to-achieve-them)
@@ -73,11 +73,10 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 --- 
 <!-- Updates -->
-## Update Log
+## Update Log (Jun 12)
 
 - Users in `Musik [BOT]` are always muted
-
-Under this section we present our newest feature. 
+- Welcome Messages in `willkommen`by Dyno Bot (expiremental feature)
 
 <!-- Planned -->
 ## Planned Features
