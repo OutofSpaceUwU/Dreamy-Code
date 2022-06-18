@@ -24,13 +24,14 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 - [Moni Heichou Discord Server Github Page](#moni-heichou-discord-server-github-page)
   - [Table of content](#table-of-content)
-  - [Update Log (Jun 12)](#update-log-jun-12)
+  - [Update Log (Jun 18)](#update-log-jun-18)
   - [Planned Features](#planned-features)
     - [Marriage Bot](#marriage-bot)
     - [RolePlay](#roleplay)
   - [The server structure](#the-server-structure)
   - [The different roles and how to achieve them](#the-different-roles-and-how-to-achieve-them)
     - [Moderation Roles](#moderation-roles)
+    - [Sympathy Points](#sympathy-points)
     - [Level Roles](#level-roles)
     - [Selectable Roles](#selectable-roles)
       - [Channel Visibility](#channel-visibility)
@@ -75,16 +76,11 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 --- 
 <!-- Updates -->
-## Update Log (Jun 12)
+## Update Log (Jun 18)
 
-- Users in `Musik [BOT]` are always muted
-- Welcome Messages in `willkommen`by Dyno Bot
-- Autorespond for questions regarding `sexualities`
-- Autodelete bot commands after 120 sec. in `bot-commands`
-- No Automod for banned words in `18-plus-chat`
-- Automod for Capslock disabled
-- DJ Role for `Level 25`users
-- Emojis max is set to 10
+- Fix of general minor spelling issues
+- Addition of `Sympathy Points`
+- Updates syntax for images
 
 <!-- Planned -->
 ## Planned Features
@@ -126,10 +122,10 @@ The server is structered in different voice and text channels. To keep things or
 |                   | ask-the-author | Questions and feedback from the community to Moni Heichou                                                 |
 | *General - Voice* | Events         | This channel is only for events with a host. Featureing silent joins and leaves + only certified speakers |
 |                   | VC #1          | A voice chat for general use                                                                              |
-|                   | VC #2          | Same as  `『👥』Lounge #1`                                                                                 |
+|                   | VC #2          | A secondary voice chat for general-use                                                                    |
 |                   | Private VC     | A voice chat for general use, but limited to a smaller number of users                                    |
 |                   | Music [BOTS]   | A voice chat to enjoy some nice music with your friends                                                   |
-| *Staff Rooms*     | upport         | Creation of support tickets                                                                               |
+| *Staff Rooms*     | support        | Creation of support tickets                                                                               |
 |                   | staff          | A chat for the staff                                                                                      |
 |                   | logs           | A chat for logs produced by bots                                                                          |
 |                   | Support        | A voice chat related to support tickets                                                                   |
@@ -156,7 +152,33 @@ Only with these roles are truly a member of the staff team. They have the author
 | [🌐]Alpha Moderator | Channel Managment + Supervision of the Moderators + Support       |
 | [🌀]Moderator       | Channel Managment, Training of the trial mods + their supervision |
 | [❓]Trail Mod       | Basic Managment + Support                                         |
-| Server Staff       | General role for the whole server moderation team                 |
+| Staff              | General role for the whole server moderation team                 |
+
+### Sympathy Points
+
+These roles are distributed solely by `MoniHeichou` on the basis of personal sympathy and there is no other way to get these roles. 
+
+> Users with the `MAFIA (20)💵` roll are given a one-time €10 Amazon credit.
+
+- MAFIA (20)💵
+- Gott (19)
+- Heiliger (18)
+- Royal (16)
+- Valküre (15)
+- Operator (14)
+- Joker (13)
+- Oberst (12)
+- Kaiser (11)
+- General (10)
+- Brigardiere (9)
+- Colonel (8)
+- Leutnant (7)
+- Kommandant (6)
+- Meister (5)
+- Sargent (4)
+- Corporal (3)
+- Spezialist (2)
+- Lehrling (1)
 
 ### Level Roles
 
@@ -173,7 +195,7 @@ These roles are applied automatatically by the Arcane Bot and provide special pe
 | [💯]Level 100 | Own the ability to speak in the event channel + everything below | 502,500     |
 | [📈]Level 75  | Partipicating in giveaways + everything below                    | 283,125     |
 | [✨]Level 50  | Early acces to books + everything below                          | 126,250     |
-| [💓]Level 25  | Play Music through the `Hydra`                                   | 31,875      |
+| [💓]Level 25  | Play Music through `Hydra`                                       | 31,875      |
 | [🔥]Level 10  | Vote for new server features                                     | 5,250       |
 
 ### Selectable Roles
@@ -189,7 +211,6 @@ The roles below help you to select which channles you can see and chat in.
 | 18+ Content | - 18-plus-lobby <br> - fvck-humanity |
 | Chat        | - main-chat                          |
 | True Fan    | - Moni Heichou *(Category)*          |
-| Roleplay    | - Role Play *(Category)*             |
 
 
 #### Notifcation Roles
@@ -229,14 +250,14 @@ If you wish so, you can select one of the roles below to select your sexuality.
 
 </details>
 
-| Rolename    | Flag                                   |
-| ----------- | -------------------------------------- |
-| Hetero      | ![](Emojis/1369_flag_heterosexual.png) |
-| Homosexuell | 🏳️‍🌈                                      |
-| Bisexuell   | ![](Emojis/6131-bisexual-flag.png)     |
-| Asexuell    | ![](Emojis/9010-asexual-flag.png)      |
-| Polysexuell | ![](Emojis/1214-polysexual-flag.png)   |
-| Panssexuell | ![](Emojis/5409-pansexual-flag.png)    |
+| Rolename    | Flag                                                 |
+| ----------- | ---------------------------------------------------- |
+| Hetero      | <img src=Emojis/1369_flag_heterosexual.png width=64> |
+| Homosexuell | <img src=Emojis/4895-lgbt-flag.png width=64>         |
+| Bisexuell   | <img src=Emojis/6131-bisexual-flag.png width=64>     |
+| Asexuell    | <img src=Emojis/9010-asexual-flag.png width=64>      |
+| Polysexuell | <img src=Emojis/1214-polysexual-flag.png width=64>   |
+| Pansexuell  | <img src=Emojis/5409-pansexual-flag.png width=64>    |
 
 #### Social Status
 
