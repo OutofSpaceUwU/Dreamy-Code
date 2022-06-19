@@ -1,7 +1,7 @@
 <!-- Introduction -->
 # Moni Heichou Discord Server Github Page
 
-This repository is a summary of the changes commited to the [Moni Heichou Discord Server](https://discord.gg/U2MSjuZAT7 "Invite Link") and a guide for the users and the moderation team.
+This repository is a summary of the changes commited to the [Moni Heichou Discord Server](https://discord.gg/cKetZxN3Ps "Invite Link") and a guide for the users and the moderation team.
 
 <details>
 <summary>Cheers</summary>
@@ -24,7 +24,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 - [Moni Heichou Discord Server Github Page](#moni-heichou-discord-server-github-page)
   - [Table of content](#table-of-content)
-  - [Update Log (Jun 18)](#update-log-jun-18)
+  - [Update Log (Jun 19)](#update-log-jun-19)
   - [Planned Features](#planned-features)
     - [Marriage Bot](#marriage-bot)
     - [RolePlay](#roleplay)
@@ -76,11 +76,9 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 --- 
 <!-- Updates -->
-## Update Log (Jun 18)
+## Update Log (Jun 19)
 
-- Fix of general minor spelling issues
-- Addition of `Sympathy Points`
-- Updates syntax for images
+- Updated invite link
 
 <!-- Planned -->
 ## Planned Features
