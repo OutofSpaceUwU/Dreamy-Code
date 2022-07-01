@@ -24,7 +24,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 - [Moni Heichou Discord Server Github Page](#moni-heichou-discord-server-github-page)
   - [Table of content](#table-of-content)
-  - [Update Log (Jun 19)](#update-log-jun-19)
+  - [Update Log (1 Jul)](#update-log-1-jul)
   - [Planned Features](#planned-features)
     - [Marriage Bot](#marriage-bot)
     - [RolePlay](#roleplay)
@@ -80,10 +80,9 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 --- 
 <!-- Updates -->
-## Update Log (Jun 19)
+## Update Log (1 Jul)
 
-- Updated invite link
-- Autodelete messages in `bot-commands` after 300 seconds
+- Added [Beemo](https://beemo.gg/) Bot against raid attacks
 
 <!-- Planned -->
 ## Planned Features
