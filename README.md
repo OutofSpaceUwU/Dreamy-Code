@@ -24,7 +24,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 - [Moni Heichou Discord Server Github Page](#moni-heichou-discord-server-github-page)
   - [Table of content](#table-of-content)
-  - [Update Log (1 Jul)](#update-log-1-jul)
+  - [Update Log (4 Jul)](#update-log-4-jul)
   - [Planned Features](#planned-features)
     - [Marriage Bot](#marriage-bot)
     - [RolePlay](#roleplay)
@@ -74,15 +74,21 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
     - [1. Role Reactions](#1-role-reactions)
     - [2. NSFW (Not Safe for Work)](#2-nsfw-not-safe-for-work)
     - [3. Ear-Rape](#3-ear-rape)
+    - [4. VoiceChat-Hopping](#4-voicechat-hopping)
   - [Image Links](#image-links)
   - [Copyright Notices](#copyright-notices)
 </details>
 
 --- 
 <!-- Updates -->
-## Update Log (1 Jul)
+## Update Log (4 Jul)
 
-- Added [Beemo](https://beemo.gg/) Bot against raid attacks
+- Added Rules.json to [Messages.md](Messages.md)
+- Spelling Updates
+- Rule-section changed to ordered list
+- Added Beemo-Bot to [bot section](#active-bots)
+- cleaned [command section](#channel-commands) up
+- Added [VC-Hopping](#4-voicechat-hopping) to [Terms and their Explanation](#terms-and-their-explanation)
 
 <!-- Planned -->
 ## Planned Features
@@ -103,7 +109,7 @@ An idea of mine has been the merging of the role play servers with this main ser
 <!-- Structure -->
 ## The server structure
 
-The server is structered in different voice and text channels. To keep things organized for everybody only with certain roles certain channels will be displayed. For example is the `『🔞』18-plus-content` channel only for users with the `18+ Content` role visible. 
+The server is structered in different voice and text channels. To keep things organized for everybody only with certain roles certain channels will be displayed. For example is the `18-plus-chat` channel only for users with the `18+ Content` role visible. 
 > The following table shows every available channel and their particular usecase. 
 
 | Caterogy          | Channel        | Usecase                                                                                                   |
@@ -297,38 +303,38 @@ Here are the current rules and their consequences for the Server listed.
 
 ### §2 Interaction with other Users
 
-- Treat other users with respect
-  - Especially the staff team
-- Try to avoid all kind of unnecessary drama
-- Keep toxicity and swearing to a certain level
-- Avoid unnecessary pings
-- The distribution of extremistic thought in any way is forbidden, This includes political and ideological attitudes and the spreading of misleading information
-- Hate speech is unacceptable and will not be tolerated
-- Do not threaten to use force and/or harm others
-- Do not spread viruses, malware,other similar suspicious code/programs or attempt to fish, hack or DDoS others
-- The only two languages that are allowed on the server are German and English
+1. Treat other users with respect 
+   1. Especially the staff team
+2. Try to avoid all kind of unnecessary drama
+3. Keep toxicity and swearing to a certain level
+4. Avoid unnecessary pings
+5. The distribution of extremistic thought in any way is forbidden, This includes political and ideological attitudes and the spreading of misleading information
+6. Hate speech is unacceptable and will not be tolerated
+7. Do not threaten to use force and/or harm others
+8. Do not spread viruses, malware,other similar suspicious code/programs or attempt to fish, hack or DDoS others
+9.  The only two languages that are allowed on the server are German and English
 
 ### §3 Posting Content
 
-- Use caplocks, emotes and etc. in comman sense
-- Do not spam
-  - (Moni is excluded from this rule)
-- Use the `spoiler`-option if it is neccessary
-- Use the relavant channel for the topic you would like to talk about
-- Forbidden content
-  - NSFW[[²]](#2-nsfw-not-safe-for-work) (except the 18+ channels)
-  - Sexualization of minors
-  - Gore or animal cruelty
-  - Selfpromotion
-  - Sales promotion
-  - Promotion of illegal material and/or activities
-  - Promotion of other Discord™ Servers
+1. Use caplocks, emotes and etc. in comman sense
+2. Do not spam (Moni is excluded from this rule)
+3. Use the `spoiler`-option if it is neccessary
+4. Use the relavant channel for the topic you would like to talk about
+5. Forbidden content
+   1. NSFW[[²]](#2-nsfw-not-safe-for-work) (except the 18+ channels)
+   2. Sexualization of minors
+   3. Gore or animal cruelty
+   4. Advertisement
+      1. Sales promotion
+      2. Promotion of illegal material and/or activities
+      3. Promotion of other Discord™ Servers
 
 ### §4 Using the voice channels
 
-- No kind NSFW[[²]](#2-nsfw-not-safe-for-work) in the voice channels
-- No Ear-Rape[[³]](#3-ear-rape)
-- Use the `Music [BOTS]`-channel mainly for music
+1. No kind NSFW[[²]](#2-nsfw-not-safe-for-work) in the voice channels
+2. No Ear-Rape[[³]](#3-ear-rape)
+3. No VoiceChat-Hopping[[⁴]](#4-voicechat-hopping)
+4. Use the `Music [BOTS]`-channel mainly for music
 
 ### Consequences
 
@@ -355,16 +361,17 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 
 > Here we list any actively used bot on the server. 
 
-| Bot                                        | Usage                             |
-| ------------------------------------------ | --------------------------------- |
-| [Dyno](https://dyno.gg/)                   | Moderation,                       |
-| [YAGPDB](https://yagpdb.xyz/)              | Rolemenus[[¹]](#1-role-reactions) |
-| [Xenon](https://xenon.bot/)                | Backups                           |
-| [Arcane](https://arcane.bot/)              | Leveling                          |
-| [ServerStats](https://serverstatsbot.com/) | General server statistics         |
-| [TicketTool](https://tickettool.xyz/)      | Support ticket creation           |
-| [Hydra](https://hydra.bot/)                | Play music                        |
-| OwO                                        | Idk what this bot does lol        |
+| Bot                                         | Usage                             |
+| ------------------------------------------- | --------------------------------- |
+| [Dyno](https://dyno.gg/)                    | Moderation,                       |
+| [YAGPDB](https://yagpdb.xyz/)               | Rolemenus[[¹]](#1-role-reactions) |
+| [Xenon](https://xenon.bot/)                 | Backups                           |
+| [Arcane](https://arcane.bot/)               | Leveling                          |
+| [ServerStats](https://serverstatsbot.com/)  | General server statistics         |
+| [TicketTool](https://tickettool.xyz/)       | Support ticket creation           |
+| [Hydra](https://hydra.bot/)                 | Play music                        |
+| [Dank Memer](https://invite.dankmemer.lol/) | Games                             |
+| [Beemo](https://beemo.gg/)                  | Antiraid                          |
 
 </details>
 
@@ -411,20 +418,20 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 | star       | View starboard stats for a message                                               | ?stars [message ID/link]                                                                                                                              |
 
 ##### Channel Commands
-| Command     | Description                                                                       | Usage                                                                                                                                                                                               |
-| ----------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| lock        | Lock a channel with optional timer and message.                                   | ?lock [channel] (time) (message)                                                                                                                                                                    |
-| unlock     | Unlock a previously locked channel.                                              | ?unlock [channel] (message)                                                                                                                           |
-| lockdown   | Lock channels defined in moderation settings.                                    | ?lockdown (optional message)lockdown end (optional message)                                                                                           |
+| Command  | Description                                     | Usage                                                       |
+| -------- | ----------------------------------------------- | ----------------------------------------------------------- |
+| lock     | Lock a channel with optional timer and message. | ?lock [channel] (time) (message)                            |
+| unlock   | Unlock a previously locked channel.             | ?unlock [channel] (message)                                 |
+| lockdown | Lock channels defined in moderation settings.   | ?lockdown (optional message)lockdown end (optional message) |
 
 
 
 
 ##### Get Information on a user
-| Command     | Description                                                                       | Usage                                                                                                                                                                                               |
-| ----------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| modlogs     | Get a list of moderation logs for a user.                                         | ?modlogs [user] [page]                                                                                                                                                                              |
-| warnings   | Get warnings for a user                                                          | ?warnings [user]                                                                                                                                      |
+| Command  | Description                               | Usage                  |
+| -------- | ----------------------------------------- | ---------------------- |
+| modlogs  | Get a list of moderation logs for a user. | ?modlogs [user] [page] |
+| warnings | Get warnings for a user                   | ?warnings [user]       |
 
 
 #### YAGPDB
@@ -456,6 +463,10 @@ NSFW stands for "Not Safe for Work" and is another term for adult content.
 ### 3. Ear-Rape
 
 Ear-Raping simply means shouting inside the voice channels to "hurt" the ears of other users. 
+
+### 4. VoiceChat-Hopping
+
+Join, leave and join aother or the same voice channel in a short periode of time multiple times.
 
 ---
 <!-- Image Sources -->
