@@ -11,7 +11,7 @@
 
 Messages send every time some joins the server. 
 
-![](Images/Welcome_Message_pre.png)
+![](Images/Preview%20Images/Welcome_Message_pre.png)
 
 <details>
 <summary>Code</summary>
@@ -45,7 +45,7 @@ Messages send every time some joins the server.
 
 Display of the rules in `#regeln`
 
-![](Images/Rules_Messages_pre.png)
+![](Images/Preview%20Images/Rules_Messages_pre.png)
 
 <details>
 <summary>Code</summary>
@@ -57,7 +57,7 @@ Display of the rules in `#regeln`
     {
       "color": 16741141,
       "image": {
-        "url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Images/First_Paragraph.png?raw=true"
+        "url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Images/Embeded%20Images/First_Paragraph.png?raw=true"
       }
     },
     {
@@ -72,7 +72,7 @@ Display of the rules in `#regeln`
     {
       "color": 16741141,
       "image": {
-        "url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Images/Second_Paragraph.png?raw=true"
+        "url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Images/Embeded%20Images/Second_Paragraph.png?raw=true"
       }
     },
     {
@@ -87,7 +87,7 @@ Display of the rules in `#regeln`
     {
       "color": 16741141,
       "image": {
-        "url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Images/Third_Paragraph.png?raw=true"
+        "url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Images/Embeded%20Images/Third_Paragraph.png?raw=true"
       }
     },
     {
@@ -102,7 +102,7 @@ Display of the rules in `#regeln`
     {
       "color": 16741141,
       "image": {
-        "url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Images/Fourth_Paragraph.png?raw=true"
+        "url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Images/Embeded%20Images/Fourth_Paragraph.png?raw=true"
       }
     },
     {
@@ -116,7 +116,7 @@ Display of the rules in `#regeln`
     }
   ],
   "username": "Dreamy Code",
-  "avatar_url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Images/binary-code.png?raw=true",
+  "avatar_url": "https://github.com/OutofSpaceUwU/Dreamy-Code/blob/main/Design%20Assets/binary-code.png?raw=true",
   "attachments": []
 }
 ```
