@@ -42,6 +42,11 @@ Messages send every time some joins the server.
 </details>
 
 ## Rules
+
+Display of the rules in `#regeln`
+
+![](Images/Rules_Messages_pre.png)
+
 <details>
 <summary>Code</summary>
 
@@ -87,7 +92,7 @@ Messages send every time some joins the server.
     },
     {
       "title": "–––––––––––––––––––––––––",
-      "description": "**1. Benutze Caplocks, Emotes etc. nicht im Übermaß\n> 10 Zeichen auf einmal sind erlaubt\n\n2. Spamme nicht\n> a. Das <@&983819709185142784>-Team ist davon unter gegebenen Umständen ausgeschlossen\n\n3. Benutze die `spoiler`-Option, wenn es angebracht ist\n\n4. Verwende die Channel themenspezifisch\n> a. Verwende die neue VC-Text-Funktion, falls sich das Thema auf einen spezifischen Voice Chat bezieht\n> b. Benutze <#983818350595551385> für sämtliche <@&983819748196376607>-commands\n\n5. Verbotene Inhalte\n> a. NSFW (außer die gekenzeichneten 18+ Kanäle)\n> b. Sexualisierung von Minderjährigen\n> c. Visualisierung von Gewaltanwendung oder Tierquälerei\n> d. Eigenwerbung, Bewerbung von Produkten, Werbung für andere Discord™-Server\n> e. Förderung von illegalem Material und/oder Ermutigung zu illegalen Aktivitäten",
+      "description": "**1. Benutze Caplocks, Emotes etc. nicht im Übermaß**\n> 10 Zeichen auf einmal sind erlaubt\n\n**2. Spamme nicht**\n> a. Das <@&983819709185142784>-Team ist davon unter gegebenen Umständen ausgeschlossen\n\n**3. Benutze die `spoiler`-Option, wenn es angebracht ist\n\n4. Verwende die Channel themenspezifisch**\n> a. Verwende die neue VC-Text-Funktion, falls sich das Thema auf einen spezifischen Voice Chat bezieht\n> b. Benutze <#983818350595551385> für sämtliche <@&983819748196376607>-commands\n\n**5. Verbotene Inhalte**\n> a. NSFW (außer die gekenzeichneten 18+ Kanäle)\n> b. Sexualisierung von Minderjährigen\n> c. Visualisierung von Gewaltanwendung oder Tierquälerei\n> d. Eigenwerbung, Bewerbung von Produkten, Werbung für andere Discord™-Server\n> e. Förderung von illegalem Material und/oder Ermutigung zu illegalen Aktivitäten",
       "color": 16741141,
       "footer": {
         "text": "Zuletzt geändert"
@@ -102,7 +107,7 @@ Messages send every time some joins the server.
     },
     {
       "title": "–––––––––––––––––––––––––",
-      "description": "1. Keine Art von NSFW-Content in den Sprachkanälen\n\n2. Kein Ear-Rape\n\n3. Kein VC-Hopping\n\n4. Benutze <#983818342731251784> vorwiegend für Musik",
+      "description": "**1. Keine Art von NSFW-Content in den Sprachkanälen\n\n2. Kein Ear-Rape\n\n3. Kein VC-Hopping\n\n4. Benutze <#983818342731251784> vorwiegend für Musik**",
       "color": 16741141,
       "footer": {
         "text": "Zuletzt geändert"
