@@ -62,6 +62,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
       - [Dyno](#dyno-1)
         - [Punishment Commands](#punishment-commands)
         - [Channel Commands](#channel-commands)
+        - [Modlogs Commands](#modlogs-commands)
         - [Get Information on a user](#get-information-on-a-user)
       - [YAGPDB](#yagpdb-1)
       - [Xenon](#xenon-1)
@@ -381,10 +382,14 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 #### YAGPDB
 #### Xenon
 #### [Arcane](https://arcane.bot/commands)
-- /boosters (View all of the xp booster roles in the server)
-- /leaderboard (Get the top 10 of the leaderboard)
-- /level (View your own level)
-- /rewards (View all of the level rewards configured for the server)
+
+| Command      | Description                                             |
+| ------------ | ------------------------------------------------------- |
+| /boosters    | View all of the xp booster roles in the server          |
+| /leaderboard | Get the top 10 of the leaderboard                       |
+| /level       | View your own level                                     |
+| /rewards     | View all of the level rewards configured for the server |
+
 #### ServerStats
 #### TicketTool
 #### Hydra
@@ -392,52 +397,60 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 ### Admin users
 
 #### [Dyno](https://dyno.gg/commands)
+
 ##### Punishment Commands
-| Command    | Description                                                                      | Usage                                                                                                                                                 |
-| ---------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| kick       | Kick a member.                                                                   | ?kick [user] [reason]                                                                                                                                 |
-| ban        | Ban a member, optional time limit                                                | ?ban [user] [limit] [reason]ban save [user] [limit] [reason]                                                                                          |
-| unban      | Unban a member.                                                                  | ?unban [user id] (optional reason)                                                                                                                    |
-| mute       | Mute a member so they cannot type.                                               | ?mute [user] [limit] [reason]                                                                                                                         |
-| unmute     | Unmute a member.                                                                 | ?unmute [user] (optional reason)                                                                                                                      |
-| deafen     | Deafen a member                                                                  | ?deafen <user>                                                                                                                                        |
-| undeafen   | Undeafen a member                                                                | ?undeafen <user>                                                                                                                                      |
-| softban    | Softban a member (ban and immediate unban to delete user messages)               | ?softban [user] [reason]                                                                                                                              |
-| warn       | Warn a member                                                                    | ?warn [user] (reason)                                                                                                                                 |
-| delwarn    | Delete a warning                                                                 | ?unwarn [warning id]                                                                                                                                  |
-| reason     | Supply a reason for a mod log case                                               | ?reason [case num] [reason]                                                                                                                           |
-| case       | Show a single mod log case                                                       | ?case [Case ID]                                                                                                                                       |
-| notes      | Get notes for a user                                                             | ?notes [user]                                                                                                                                         |
-| delnote    | Delete a note about a member                                                     | ?delnote [user] [note ID]                                                                                                                             |
-| note       | Add note(s) about a member                                                       | ?note [user] [text]                                                                                                                                   |
-| temprole   | Assign/unassign a role that persists for a limited time.                         | ?temprole [user] [time] [role], [optional reason]temprole add [user] [time] [role], [optional reason]temprole remove [user] [role], [optional reason] |
-| clearnotes | Delete all notes for a member                                                    | ?clearnotes [user]                                                                                                                                    |
-| editnote   | Edit a note about a member                                                       | ?editnote [user] [note ID] [note]                                                                                                                     |
-| modstats   | Get moderation statistics for a mod/admin (may take up to 30 minutes to update). | ?modstats [user]                                                                                                                                      |
-| duration   | Change the duration of a mute/ban                                                | ?duration [modlog ID] [limit]                                                                                                                         |
-| star       | View starboard stats for a message                                               | ?stars [message ID/link]                                                                                                                              |
+
+| Command  | Description                                                        | Usage                                                        |
+| -------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
+| kick     | Kick a member.                                                     | ?kick [user] [reason]                                        |
+| ban      | Ban a member, optional time limit                                  | ?ban [user] [limit] [reason]ban save [user] [limit] [reason] |
+| unban    | Unban a member.                                                    | ?unban [user id] (optional reason)                           |
+| mute     | Mute a member so they cannot type.                                 | ?mute [user] [limit] [reason]                                |
+| unmute   | Unmute a member.                                                   | ?unmute [user] (optional reason)                             |
+| deafen   | Deafen a member                                                    | ?deafen <user>                                               |
+| undeafen | Undeafen a member                                                  | ?undeafen <user>                                             |
+| softban  | Softban a member (ban and immediate unban to delete user messages) | ?softban [user] [reason]                                     |
+| warn     | Warn a member                                                      | ?warn [user] (reason)                                        |
+| delwarn  | Delete a warning                                                   | ?unwarn [warning id]                                         |
+| duration | Change the duration of a mute/ban                                  | ?duration [modlog ID] [limit]                                |
 
 ##### Channel Commands
+
 | Command  | Description                                     | Usage                                                       |
 | -------- | ----------------------------------------------- | ----------------------------------------------------------- |
 | lock     | Lock a channel with optional timer and message. | ?lock [channel] (time) (message)                            |
 | unlock   | Unlock a previously locked channel.             | ?unlock [channel] (message)                                 |
 | lockdown | Lock channels defined in moderation settings.   | ?lockdown (optional message)lockdown end (optional message) |
 
-
+##### Modlogs Commands
+| Command | Desciption                         | Usage                       |
+| ------- | ---------------------------------- | --------------------------- |
+| reason  | Supply a reason for a mod log case | ?reason [case num] [reason] |
+| case    | Show a single mod log case         | ?case [Case ID]             |
 
 
 ##### Get Information on a user
-| Command  | Description                               | Usage                  |
-| -------- | ----------------------------------------- | ---------------------- |
-| modlogs  | Get a list of moderation logs for a user. | ?modlogs [user] [page] |
-| warnings | Get warnings for a user                   | ?warnings [user]       |
+
+| Command    | Description                                                                      | Usage                             |
+| ---------- | -------------------------------------------------------------------------------- | --------------------------------- |
+| modlogs    | Get a list of moderation logs for a user.                                        | ?modlogs [user] [page]            |
+| warnings   | Get warnings for a user                                                          | ?warnings [user]                  |
+| notes      | Get notes for a user                                                             | ?notes [user]                     |
+| note       | Add note(s) about a member                                                       | ?note [user] [text]               |
+| delnote    | Delete a note about a member                                                     | ?delnote [user] [note ID]         |
+| clearnotes | Delete all notes for a member                                                    | ?clearnotes [user]                |
+| editnote   | Edit a note about a member                                                       | ?editnote [user] [note ID] [note] |
+| modstats   | Get moderation statistics for a mod/admin (may take up to 30 minutes to update). | ?modstats [user]                  |
 
 
 #### YAGPDB
 #### Xenon
 #### [Arcane](https://arcane.bot/commands)
-- /setlevel (Manually set a user to a specific level)
+
+| Command   | Description                             |
+| --------- | --------------------------------------- |
+| /setlevel | Manually set a user to a specific level |
+
 #### ServerStats
 #### TicketTool
 #### Hydra
