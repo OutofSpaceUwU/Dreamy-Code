@@ -26,7 +26,6 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
   - [Table of content](#table-of-content)
   - [Update Log (9 Jul)](#update-log-9-jul)
   - [Planned Features](#planned-features)
-    - [Marriage Bot](#marriage-bot)
     - [RolePlay](#roleplay)
   - [The server structure](#the-server-structure)
   - [The different roles and how to achieve them](#the-different-roles-and-how-to-achieve-them)
@@ -84,8 +83,6 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 <!-- Planned -->
 ## Planned Features
-
-### Marriage Bot
 
 ### RolePlay
 An idea of mine has been the merging of the role play servers with this main server. I (OutofSpace) am currently still waiting for feedback. For now te role play category is paused.
