@@ -24,7 +24,7 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 - [Moni Heichou Discord Server Github Page](#moni-heichou-discord-server-github-page)
   - [Table of content](#table-of-content)
-  - [Update Log (4 Jul)](#update-log-4-jul)
+  - [Update Log (9 Jul)](#update-log-9-jul)
   - [Planned Features](#planned-features)
     - [Marriage Bot](#marriage-bot)
     - [RolePlay](#roleplay)
@@ -51,25 +51,21 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
   - [Commands](#commands)
     - [Active Bots](#active-bots)
     - [Standard users](#standard-users)
-      - [Dyno](#dyno)
-      - [YAGPDB](#yagpdb)
-      - [Xenon](#xenon)
       - [Arcane](#arcane)
-      - [ServerStats](#serverstats)
       - [TicketTool](#tickettool)
       - [Hydra](#hydra)
+      - [Dank Memer](#dank-memer)
     - [Admin users](#admin-users)
-      - [Dyno](#dyno-1)
+      - [Dyno](#dyno)
         - [Punishment Commands](#punishment-commands)
         - [Channel Commands](#channel-commands)
         - [Modlogs Commands](#modlogs-commands)
         - [Get Information on a user](#get-information-on-a-user)
-      - [YAGPDB](#yagpdb-1)
-      - [Xenon](#xenon-1)
       - [Arcane](#arcane-1)
-      - [ServerStats](#serverstats-1)
+      - [ServerStats](#serverstats)
       - [TicketTool](#tickettool-1)
       - [Hydra](#hydra-1)
+      - [Dank Memer](#dank-memer-1)
   - [Events](#events)
   - [Terms and their explanation.](#terms-and-their-explanation)
     - [1. Role Reactions](#1-role-reactions)
@@ -82,14 +78,9 @@ This repository is a summary of the changes commited to the [Moni Heichou Discor
 
 --- 
 <!-- Updates -->
-## Update Log (4 Jul)
+## Update Log (9 Jul)
 
-- Added Rules.json to [Messages.md](Messages.md)
-- Spelling Updates
-- Rule-section changed to ordered list
-- Added Beemo-Bot to [bot section](#active-bots)
-- cleaned [command section](#channel-commands) up
-- Added [VC-Hopping](#4-voicechat-hopping) to [Terms and their Explanation](#terms-and-their-explanation)
+- [Updated Commands Section](#commands)
 
 <!-- Planned -->
 ## Planned Features
@@ -146,7 +137,7 @@ The server is structered in different voice and text channels. To keep things or
 ## The different roles and how to achieve them
 
 We offer a selection of different roles to every user. Some roles are self-selectable like for example `XX`. These can be applied and removed through role reactions[[¹]](#1-role-reactions). On the other hand some roles have to be applied through a staff member. Besides that bots also create roles for theirselves. These exists, but are not listed below. 
-<br>As mentioned before a few roles also reveal channels or categories. This is used mostly for moderation roles, but also for the `『⚠』fvck-humanity` channel. 
+<br>As mentioned before a few roles also reveal channels or categories. This is used mostly for moderation roles, but also for the `fvck-humanity` channel. 
 
 > *The categories and roles are sorted by hierarchy.
 
@@ -378,9 +369,6 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 
 ### Standard users
 
-#### [Dyno](https://dyno.gg/commands)
-#### YAGPDB
-#### Xenon
 #### [Arcane](https://arcane.bot/commands)
 
 | Command      | Description                                             |
@@ -390,9 +378,22 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 | /level       | View your own level                                     |
 | /rewards     | View all of the level rewards configured for the server |
 
-#### ServerStats
-#### TicketTool
-#### Hydra
+#### [TicketTool](https://docs.tickettool.xyz/general/commands)
+
+| Command | Description                                                          | Usage                                                                              |
+| ------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| $add    | Gives an additional user or role acces to the current ticket channel | $add [@User#1234] <br> $add [User ID] <br> $add [@Role] <br> $add [Role ID]        |
+| $remove | Removes a user's or role's access to the ticket channel              | $remove [@User#1234] $remove [User ID] <br> $remove [@Role] <br> $remove [Role ID] |
+
+#### [Hydra](https://hydra.bot/commands)
+
+As the Hydra Bot offers a wide variety of commands we only provide links to the official documentation. 
+- Commands for all members: https://hydra.bot/commands?category=everyone
+- Commands for the DJ members aka. `[💓]Level 25`: https://hydra.bot/commands?category=dj
+
+#### [Dank Memer](https://dankmemer.lol/commands)
+
+Because of the fact that Dank Memer has a ton of different commands and these are not system relevant, we will not list any user commands in this reposotory. Instead we suggest you to have a look at this table: https://dankmemer.lol/commands
 
 ### Admin users
 
@@ -402,11 +403,11 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 
 | Command  | Description                                                        | Usage                                                        |
 | -------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
-| kick     | Kick a member.                                                     | ?kick [user] [reason]                                        |
+| kick     | Kick a member                                                      | ?kick [user] [reason]                                        |
 | ban      | Ban a member, optional time limit                                  | ?ban [user] [limit] [reason]ban save [user] [limit] [reason] |
-| unban    | Unban a member.                                                    | ?unban [user id] (optional reason)                           |
+| unban    | Unban a member                                                     | ?unban [user id] (optional reason)                           |
 | mute     | Mute a member so they cannot type.                                 | ?mute [user] [limit] [reason]                                |
-| unmute   | Unmute a member.                                                   | ?unmute [user] (optional reason)                             |
+| unmute   | Unmute a member                                                    | ?unmute [user] (optional reason)                             |
 | deafen   | Deafen a member                                                    | ?deafen <user>                                               |
 | undeafen | Undeafen a member                                                  | ?undeafen <user>                                             |
 | softban  | Softban a member (ban and immediate unban to delete user messages) | ?softban [user] [reason]                                     |
@@ -416,11 +417,11 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 
 ##### Channel Commands
 
-| Command  | Description                                     | Usage                                                       |
-| -------- | ----------------------------------------------- | ----------------------------------------------------------- |
-| lock     | Lock a channel with optional timer and message. | ?lock [channel] (time) (message)                            |
-| unlock   | Unlock a previously locked channel.             | ?unlock [channel] (message)                                 |
-| lockdown | Lock channels defined in moderation settings.   | ?lockdown (optional message)lockdown end (optional message) |
+| Command  | Description                                    | Usage                                                       |
+| -------- | ---------------------------------------------- | ----------------------------------------------------------- |
+| lock     | Lock a channel with optional timer and message | ?lock [channel] (time) (message)                            |
+| unlock   | Unlock a previously locked channel             | ?unlock [channel] (message)                                 |
+| lockdown | Lock channels defined in moderation settings   | ?lockdown (optional message)lockdown end (optional message) |
 
 ##### Modlogs Commands
 | Command | Desciption                         | Usage                       |
@@ -431,29 +432,58 @@ Several rule vilalations are handled through the Dyno™-Bot. Which one are exac
 
 ##### Get Information on a user
 
-| Command    | Description                                                                      | Usage                             |
-| ---------- | -------------------------------------------------------------------------------- | --------------------------------- |
-| modlogs    | Get a list of moderation logs for a user.                                        | ?modlogs [user] [page]            |
-| warnings   | Get warnings for a user                                                          | ?warnings [user]                  |
-| notes      | Get notes for a user                                                             | ?notes [user]                     |
-| note       | Add note(s) about a member                                                       | ?note [user] [text]               |
-| delnote    | Delete a note about a member                                                     | ?delnote [user] [note ID]         |
-| clearnotes | Delete all notes for a member                                                    | ?clearnotes [user]                |
-| editnote   | Edit a note about a member                                                       | ?editnote [user] [note ID] [note] |
-| modstats   | Get moderation statistics for a mod/admin (may take up to 30 minutes to update). | ?modstats [user]                  |
+| Command    | Description                                                                     | Usage                             |
+| ---------- | ------------------------------------------------------------------------------- | --------------------------------- |
+| modlogs    | Get a list of moderation logs for a user                                        | ?modlogs [user] [page]            |
+| warnings   | Get warnings for a user                                                         | ?warnings [user]                  |
+| notes      | Get notes for a user                                                            | ?notes [user]                     |
+| note       | Add note(s) about a member                                                      | ?note [user] [text]               |
+| delnote    | Delete a note about a member                                                    | ?delnote [user] [note ID]         |
+| clearnotes | Delete all notes for a member                                                   | ?clearnotes [user]                |
+| editnote   | Edit a note about a member                                                      | ?editnote [user] [note ID] [note] |
+| modstats   | Get moderation statistics for a mod/admin (may take up to 30 minutes to update) | ?modstats [user]                  |
 
-
-#### YAGPDB
-#### Xenon
 #### [Arcane](https://arcane.bot/commands)
 
 | Command   | Description                             |
 | --------- | --------------------------------------- |
 | /setlevel | Manually set a user to a specific level |
 
-#### ServerStats
-#### TicketTool
-#### Hydra
+#### [ServerStats](https://serverstatsbot.com/commands)
+
+| Command  | Description                                                                             |
+| -------- | --------------------------------------------------------------------------------------- |
+| /ping    | This shows the latency for the client and the shard                                     |
+| /check   | This will check if the bot has the right permissions in the server and counter channels |
+| /members | This command will send a file with all the members in your server                       |
+| /debug   | This command will send you debug info, this can help fix problems faster                |
+
+#### [TicketTool](https://docs.tickettool.xyz/general/commands)
+
+| Command | Description                                                                    |
+| ------- | ------------------------------------------------------------------------------ |
+| $debug  | Provides some basic documentation and assistance about the bot                 |
+| $ping   | Provides the current latency between your server, the bot, and the Discord API |
+
+
+#### [Hydra](https://hydra.bot/commands?category=admin)
+
+| Command | Description                                  | Usage         |
+| ------- | -------------------------------------------- | ------------- |
+| ban     | Let's you ban users from controlling the bot | .ban [user]   |
+| unban   | Let's you unban                              | .unban [user] |
+| fix     | Tries to fix the server region               | .fix          |
+| setdj   | Add or remove a DJ role                      | .setdj [user] |
+
+#### [Dank Memer](https://dankmemer.lol/commands)
+
+| Command   | Description                                             | Usage                   |
+| --------- | ------------------------------------------------------- | ----------------------- |
+| audit     | See who has made changes to Dank Memer's config         | pls audit [page]        |
+| enable    | Enable disabled commands or categories                  | pls enable [command]    |
+| disable   | Disable commands or categories                          | pls disable [command]   |
+| settings  | Adjust user-specific settings                           | pls settings [options]  |
+| permtrace | See all enabled and disabled rules for a specif command | pls permtrace [command] |
 
 ---
 <!--- Past Events -->
