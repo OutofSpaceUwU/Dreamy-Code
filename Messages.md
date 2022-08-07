@@ -62,12 +62,12 @@ Display of the rules in `#regeln`
     },
     {
       "title": "–––––––––––––––––––––––––",
-      "description": "**1. Das Serverteam ist berechtigt, nach eigenem Ermessen zu urteilen. Dein Zugang kann jederzeit und aus jedem Grund entfernt werden\n\n2. Es ist verboten, einen Bann mit einem zweiten Account zu umgehen\n\n3. Sobald du auf den grünen Hacken unter der Nachricht auf dem Discord-Server klickst und Zugang zum Server erhältst, akzeptierst du die Regeln\n\n4. Änderungen an den Regeln können jederzeit vorgenommen werden und treten sofort in Kraft\n\n5. Jeder, der gebannt oder stumm geschaltet wird, hat das Recht, ein Formular auszufüllen und eine Aufhebung der Sperre oder Stummschaltung zu beantragen\n\n6. Die allgemeinen Discord™ Community Guidelines (https://discord.com/guidelines) und Terms of Service (https://discord.com/terms) gelten natürlich auch für diesen Server**",
+      "description": "**1. Das Serverteam ist berechtigt, nach eigenem Ermessen zu urteilen. Dein Zugang kann jederzeit und aus jedem Grund entfernt werden\n\n2. Es ist verboten, den Server mit einem zweiten Account zu betreten\n\n3. Sobald du auf den grünen Hacken unter der Nachricht auf dem Discord-Server klickst und Zugang zum Server erhältst, akzeptierst du die Regeln\n\n4. Änderungen an den Regeln können jederzeit vorgenommen werden und treten sofort in Kraft\n\n5. Jeder, der gebannt oder stumm geschaltet wird, hat das Recht, ein Formular auszufüllen und eine Aufhebung der Sperre oder Stummschaltung zu beantragen\n\n6. Die allgemeinen Discord™ Community Guidelines (https://discord.com/guidelines) und Terms of Service (https://discord.com/terms) gelten natürlich auch für diesen Server**",
       "color": 16741141,
       "footer": {
         "text": "Zuletzt geändert"
       },
-      "timestamp": "2022-07-05T22:00:00.000Z"
+      "timestamp": "2022-08-07T02:40:00.000Z"
     },
     {
       "color": 16741141,
